@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>ThaiSpa4U</title>
-    <link href="file:////Users/gerson/Documents/Publii/sites/thaispa4u/preview/feed.xml" rel="self" />
-    <link href="file:////Users/gerson/Documents/Publii/sites/thaispa4u/preview" />
+    <link href="http://thaispa4u.com/feed.xml" rel="self" />
+    <link href="http://thaispa4u.com" />
     <updated>2022-05-15T13:38:27-06:00</updated>
     <author>
         <name>Gerson Nazareth</name>
     </author>
-    <id>file:////Users/gerson/Documents/Publii/sites/thaispa4u/preview</id>
+    <id>http://thaispa4u.com</id>
 
     <entry>
         <title>Massages</title>
         <author>
             <name>Gerson Nazareth</name>
         </author>
-        <link href="file:////Users/gerson/Documents/Publii/sites/thaispa4u/preview/massages.html"/>
-        <id>file:////Users/gerson/Documents/Publii/sites/thaispa4u/preview/massages.html</id>
+        <link href="http://thaispa4u.com/massages.html"/>
+        <id>http://thaispa4u.com/massages.html</id>
 
         <updated>2021-08-23T15:31:30-06:00</updated>
             <summary></summary>
@@ -23,7 +23,7 @@
             <![CDATA[
                 <div id="wb_Text6" class="align-center"><em>Treat yourself to a world of relaxation and comfort with us.</em></div>
 <div> </div>
-<div class="align-center"><strong>Thai Aroma/Relaxation Massage</strong><figure class="post__image post__image--center"><img loading="lazy"  src="file:///Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/9/massage-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="file:///Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/9/responsive/massage-2-xs.jpg 300w ,file:///Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/9/responsive/massage-2-sm.jpg 480w ,file:///Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/9/responsive/massage-2-md.jpg 768w ,file:///Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/9/responsive/massage-2-lg.jpg 1024w"  alt="" width="532" height="356"></figure></div>
+<div class="align-center"><strong>Thai Aroma/Relaxation Massage</strong><figure class="post__image post__image--center"><img loading="lazy"  src="http://thaispa4u.com/media/posts/9/massage-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="http://thaispa4u.com/media/posts/9/responsive/massage-2-xs.jpg 300w ,http://thaispa4u.com/media/posts/9/responsive/massage-2-sm.jpg 480w ,http://thaispa4u.com/media/posts/9/responsive/massage-2-md.jpg 768w ,http://thaispa4u.com/media/posts/9/responsive/massage-2-lg.jpg 1024w"  alt="" width="532" height="356"></figure></div>
 <div class="align-center"> </div>
 <div> </div>
 <div class="align-center">$55 / $70 / $95 / $135 / $165<br>30 / 45 / 60 / 90 / 120 mins</div>
@@ -31,19 +31,19 @@
 <div class="align-center"> </div>
 <div><hr></div>
 <div class="align-center"><strong>Neck / Shoulder / Scalp Massage</strong></div>
-<div><figure class="post__image post__image--center"><img loading="lazy"  src="file:///Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/9/neck.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="file:///Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/9/responsive/neck-xs.jpg 300w ,file:///Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/9/responsive/neck-sm.jpg 480w ,file:///Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/9/responsive/neck-md.jpg 768w ,file:///Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/9/responsive/neck-lg.jpg 1024w"  alt="" width="553" height="369"></figure></div>
+<div><figure class="post__image post__image--center"><img loading="lazy"  src="http://thaispa4u.com/media/posts/9/neck.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="http://thaispa4u.com/media/posts/9/responsive/neck-xs.jpg 300w ,http://thaispa4u.com/media/posts/9/responsive/neck-sm.jpg 480w ,http://thaispa4u.com/media/posts/9/responsive/neck-md.jpg 768w ,http://thaispa4u.com/media/posts/9/responsive/neck-lg.jpg 1024w"  alt="" width="553" height="369"></figure></div>
 <div> </div>
 <div class="align-center">$55<br><em>30 mins</em></div>
 <div class="align-center"><em>... of massage therapy that focuses on the stress prone areas of the body- the neck, shoulder and scalp.</em></div>
 <div><hr></div>
 <div class="align-center"><strong>Traditional Thai Yoga Massage</strong></div>
-<div><figure class="post__image post__image--center"><img loading="lazy"  src="file:///Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/9/massage2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="file:///Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/9/responsive/massage2-xs.jpg 300w ,file:///Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/9/responsive/massage2-sm.jpg 480w ,file:///Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/9/responsive/massage2-md.jpg 768w ,file:///Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/9/responsive/massage2-lg.jpg 1024w"  alt="" width="612" height="408"></figure></div>
+<div><figure class="post__image post__image--center"><img loading="lazy"  src="http://thaispa4u.com/media/posts/9/massage2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="http://thaispa4u.com/media/posts/9/responsive/massage2-xs.jpg 300w ,http://thaispa4u.com/media/posts/9/responsive/massage2-sm.jpg 480w ,http://thaispa4u.com/media/posts/9/responsive/massage2-md.jpg 768w ,http://thaispa4u.com/media/posts/9/responsive/massage2-lg.jpg 1024w"  alt="" width="612" height="408"></figure></div>
 <div class="align-center">$95 / $135</div>
 <div class="align-center">60 / 90 mins</div>
 <div class="align-center"><em>... that beautifully blends the ancient art of Thai yoga with massage therapy to relieve pain and muscle tension.</em></div>
 <div><hr></div>
 <div class="align-center"><strong>Foot Reflexology / Massage</strong></div>
-<div><figure class="post__image post__image--center"><img loading="lazy"  src="file:///Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/9/foot-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="file:///Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/9/responsive/foot-2-xs.jpg 300w ,file:///Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/9/responsive/foot-2-sm.jpg 480w ,file:///Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/9/responsive/foot-2-md.jpg 768w ,file:///Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/9/responsive/foot-2-lg.jpg 1024w"  alt="" width="342" height="514"></figure></div>
+<div><figure class="post__image post__image--center"><img loading="lazy"  src="http://thaispa4u.com/media/posts/9/foot-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="http://thaispa4u.com/media/posts/9/responsive/foot-2-xs.jpg 300w ,http://thaispa4u.com/media/posts/9/responsive/foot-2-sm.jpg 480w ,http://thaispa4u.com/media/posts/9/responsive/foot-2-md.jpg 768w ,http://thaispa4u.com/media/posts/9/responsive/foot-2-lg.jpg 1024w"  alt="" width="342" height="514"></figure></div>
 <div class="align-center">$55<br>30 mins</div>
 <div class="align-center"><em>... of treatment for your feet to relieve tiredness and pain.</em></div>
 <div><hr>
@@ -62,17 +62,17 @@
         <author>
             <name>Gerson Nazareth</name>
         </author>
-        <link href="file:////Users/gerson/Documents/Publii/sites/thaispa4u/preview/hours.html"/>
-        <id>file:////Users/gerson/Documents/Publii/sites/thaispa4u/preview/hours.html</id>
+        <link href="http://thaispa4u.com/hours.html"/>
+        <id>http://thaispa4u.com/hours.html</id>
 
         <updated>2022-05-15T13:37:22-06:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                 <p class="msg--highlight msg ">We are now open for business!</p>
-<h2><a href="file:////Users/gerson/Documents/Publii/sites/thaispa4u/preview/locations.html">Chaparral Location</a></h2>
+<h2><a href="http://thaispa4u.com/locations.html">Chaparral Location</a></h2>
 <p><strong>Wednesday and Saturday 11 AM - 7 PM</strong></p>
-<p class="msg msg--info">Online bookings only. Click <a href="file:////Users/gerson/Documents/Publii/sites/thaispa4u/preview/book-now.html" target="_blank" rel="noopener noreferrer">here</a> to book an appointment.</p>
+<p class="msg msg--info">Online bookings only. Click <a href="http://thaispa4u.com/book-now.html" target="_blank" rel="noopener noreferrer">here</a> to book an appointment.</p>
             ]]>
         </content>
     </entry>
@@ -81,8 +81,8 @@
         <author>
             <name>Gerson Nazareth</name>
         </author>
-        <link href="file:////Users/gerson/Documents/Publii/sites/thaispa4u/preview/book-now.html"/>
-        <id>file:////Users/gerson/Documents/Publii/sites/thaispa4u/preview/book-now.html</id>
+        <link href="http://thaispa4u.com/book-now.html"/>
+        <id>http://thaispa4u.com/book-now.html</id>
 
         <updated>2022-05-15T13:38:22-06:00</updated>
             <summary></summary>
@@ -99,8 +99,8 @@
         <author>
             <name>Gerson Nazareth</name>
         </author>
-        <link href="file:////Users/gerson/Documents/Publii/sites/thaispa4u/preview/locations.html"/>
-        <id>file:////Users/gerson/Documents/Publii/sites/thaispa4u/preview/locations.html</id>
+        <link href="http://thaispa4u.com/locations.html"/>
+        <id>http://thaispa4u.com/locations.html</id>
 
         <updated>2022-05-15T13:38:27-06:00</updated>
             <summary></summary>
@@ -137,8 +137,8 @@
         <author>
             <name>Gerson Nazareth</name>
         </author>
-        <link href="file:////Users/gerson/Documents/Publii/sites/thaispa4u/preview/testimonials.html"/>
-        <id>file:////Users/gerson/Documents/Publii/sites/thaispa4u/preview/testimonials.html</id>
+        <link href="http://thaispa4u.com/testimonials.html"/>
+        <id>http://thaispa4u.com/testimonials.html</id>
 
         <updated>2021-10-02T20:51:40-06:00</updated>
             <summary></summary>
@@ -166,8 +166,8 @@
         <author>
             <name>Gerson Nazareth</name>
         </author>
-        <link href="file:////Users/gerson/Documents/Publii/sites/thaispa4u/preview/gallery.html"/>
-        <id>file:////Users/gerson/Documents/Publii/sites/thaispa4u/preview/gallery.html</id>
+        <link href="http://thaispa4u.com/gallery.html"/>
+        <id>http://thaispa4u.com/gallery.html</id>
 
         <updated>2021-08-23T11:54:03-06:00</updated>
             <summary></summary>
@@ -177,23 +177,23 @@
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="file:///Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/3/gallery/13871859_10153556980036086_165480041_n.jpg" data-size="960x717">
-        <img loading="lazy" src="file:///Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/3/gallery/13871859_10153556980036086_165480041_n-thumbnail.jpg" height="538" width="720" alt="" />
+      <a href="http://thaispa4u.com/media/posts/3/gallery/13871859_10153556980036086_165480041_n.jpg" data-size="960x717">
+        <img loading="lazy" src="http://thaispa4u.com/media/posts/3/gallery/13871859_10153556980036086_165480041_n-thumbnail.jpg" height="538" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/3/gallery/photo1.jpg" data-size="1280x720">
-        <img loading="lazy" src="file:///Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/3/gallery/photo1-thumbnail.jpg" height="405" width="720" alt="" />
+      <a href="http://thaispa4u.com/media/posts/3/gallery/photo1.jpg" data-size="1280x720">
+        <img loading="lazy" src="http://thaispa4u.com/media/posts/3/gallery/photo1-thumbnail.jpg" height="405" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/3/gallery/photo2.jpg" data-size="1280x720">
-        <img loading="lazy" src="file:///Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/3/gallery/photo2-thumbnail.jpg" height="405" width="720" alt="" />
+      <a href="http://thaispa4u.com/media/posts/3/gallery/photo2.jpg" data-size="1280x720">
+        <img loading="lazy" src="http://thaispa4u.com/media/posts/3/gallery/photo2-thumbnail.jpg" height="405" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/3/gallery/photo3.jpg" data-size="3008x2000">
-        <img loading="lazy" src="file:///Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/3/gallery/photo3-thumbnail.jpg" height="479" width="720" alt="" />
+      <a href="http://thaispa4u.com/media/posts/3/gallery/photo3.jpg" data-size="3008x2000">
+        <img loading="lazy" src="http://thaispa4u.com/media/posts/3/gallery/photo3-thumbnail.jpg" height="479" width="720" alt="" />
       </a>
       
     </figure>
@@ -207,14 +207,14 @@
         <author>
             <name>Gerson Nazareth</name>
         </author>
-        <link href="file:////Users/gerson/Documents/Publii/sites/thaispa4u/preview/about-us.html"/>
-        <id>file:////Users/gerson/Documents/Publii/sites/thaispa4u/preview/about-us.html</id>
+        <link href="http://thaispa4u.com/about-us.html"/>
+        <id>http://thaispa4u.com/about-us.html</id>
 
         <updated>2021-10-02T21:23:29-06:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="file:////Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/2/kisspng-text-separador-clip-art-5afff87ff2db98.1740043515267247359948-2.png" alt="" />
+                    <img src="http://thaispa4u.com/media/posts/2/kisspng-text-separador-clip-art-5afff87ff2db98.1740043515267247359948-2.png" alt="" />
                 <p>Welcome to our beautiful and fully licenced home-based spa. At ThaiSpa4U, we are focused on providing excellent &amp; personalized treatment to every one of our customers, at affordable prices.
 All of our therapists are registered and experienced in international massage techniques that will help you relax and rejuvenate. We encourage respect and politeness between clients &amp; staff. Allow us to treat you while you enjoy our Thai inspired atmosphere and dream of the beautiful beaches of Thailand right here in Calgary.</p>
 
@@ -226,14 +226,14 @@ All of our therapists are registered and experienced in international massage te
         <author>
             <name>Gerson Nazareth</name>
         </author>
-        <link href="file:////Users/gerson/Documents/Publii/sites/thaispa4u/preview/home.html"/>
-        <id>file:////Users/gerson/Documents/Publii/sites/thaispa4u/preview/home.html</id>
+        <link href="http://thaispa4u.com/home.html"/>
+        <id>http://thaispa4u.com/home.html</id>
 
         <updated>2021-08-23T13:45:13-06:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="file:////Users/gerson/Documents/Publii/sites/thaispa4u/preview/media/posts/1/home-page-2.jpg" alt="" />
+                    <img src="http://thaispa4u.com/media/posts/1/home-page-2.jpg" alt="" />
                 
   <p>
     
