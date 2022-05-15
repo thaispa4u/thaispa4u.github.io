@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:////Users/gerson/Documents/Publii/sites/thaispa4u/preview/sitemap.xml
