@@ -1,0 +1,94 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ThaiSpa4U",
+    "description": "",
+    "home_page_url": "https://thaispa4u.com",
+    "feed_url": "https://thaispa4u.com/feed.json",
+    "user_comment": "",
+    "icon": "https://thaispa4u.com/media/website/logo2.png",
+    "author": {
+        "name": "Gerson Nazareth"
+    },
+    "items": [
+        {
+            "id": "https://thaispa4u.com/massages.html",
+            "url": "https://thaispa4u.com/massages.html",
+            "title": "Massages",
+            "content_html": "<div id=\"wb_Text6\" class=\"align-center\"><em>Treat yourself to a world of relaxation and comfort with us.</em></div>\n<div> </div>\n<div class=\"align-center\"><strong>Thai Aroma/Relaxation Massage</strong><figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://thaispa4u.com/media/posts/9/massage-2.jpg\" alt=\"\" width=\"532\" height=\"356\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://thaispa4u.com/media/posts/9/responsive/massage-2-xs.jpg 300w ,https://thaispa4u.com/media/posts/9/responsive/massage-2-sm.jpg 480w ,https://thaispa4u.com/media/posts/9/responsive/massage-2-md.jpg 768w ,https://thaispa4u.com/media/posts/9/responsive/massage-2-lg.jpg 1024w\"></figure></div>\n<div> </div>\n<div class=\"align-center\"><em>60 mins relaxation, that works to improve circulation and relieve muscle tension.</em></div>\n<div class=\"align-center\"><br>\n<p class=\"selectable-text copyable-text\"><em><span class=\"selectable-text copyable-text\">Savanna Thai Massage Therapy /</span></em><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\"> <em>$99.75 inc. GST</em></span></p>\n</div>\n<div class=\"align-center\"><em><span class=\"selectable-text copyable-text\">Willow Park Village Chiropractic &amp; Wellness /</span> $105 inc. GST</em></div>\n<div> </div>",
+            "author": {
+                "name": "Gerson Nazareth"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-08-23T15:07:53-06:00",
+            "date_modified": "2022-08-18T21:41:56-06:00"
+        },
+        {
+            "id": "https://thaispa4u.com/locations.html",
+            "url": "https://thaispa4u.com/locations.html",
+            "title": "Locations &amp; Hours",
+            "content_html": "\n  <p class=\"msg msg--highlight\">\n    We are currently moving locations. Mam and Channasit are currently working at the below locations while we set up our new place.\n  </p>\n\n    <h2 id=\"savanna-thai-massage-therapybr\">\n      Savanna Thai Massage Therapy<br>\n    </h2>\n\n    <h3 id=\"location\">\n      Location\n    </h3>\n\n  <p>\n    Suit 6210, 5850 88 Ave NE,<br>Calgary, AB T3J 0Z7\n  </p>\n<div><div style=\"max-width:100%;overflow:hidden;color:red;width:500px;height:300px;\"><div id=\"display-googlemap\" style=\"height:100%; width:100%;max-width:100%;\"><div class=\"post__iframe\"><iframe loading=\"lazy\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d160619.85828759702!2d-114.08081167410865!3d51.02196273111937!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x537163243b3f548d%3A0xb519e3456f0281bc!2sSavanna%20Thai%20Massage%20Therapy!5e0!3m2!1sen!2sca!4v1660878260445!5m2!1sen!2sca\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe></div></div><a class=\"codefor-google-map\" href=\"https://sucks.hosting\" id=\"grabmap-info\">sucks.hosting</a><style>#display-googlemap .text-marker{}.map-generator{max-width: 100%; max-height: 100%; background: none;</style></div></div>\n\n    <h3 id=\"hours\">\n      Hours\n    </h3>\n\n  <p>\n    Sunday 10 am - 6 pm<br>Thursday 10 am - 6 pm<br>\n  </p>\n\n  <p class=\"msg msg--info\">\n    Call or Text (587) 888-6466 and ask to book an appointment with Mam or Channasit!\n  </p>\n\n    <h2 id=\"willow-park-village-chiropractic-amp-wellnessbr\">\n      Willow Park Village Chiropractic &amp; Wellness<br>\n    </h2>\n\n    <h3 id=\"location\">\n      Location\n    </h3>\n\n  <p>\n    Suit 108, 10816 Macleod Trail,<br>Calgary, AB T2J 5N8\n  </p>\n<div><div style=\"max-width:100%;overflow:hidden;color:red;width:500px;height:300px;\"><div id=\"display-googlemap\" style=\"height:100%; width:100%;max-width:100%;\"><div class=\"post__iframe\"><iframe loading=\"lazy\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2513.175783067551!2d-114.0717594843531!3d50.95745415858372!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53717133840bbbd3%3A0xd605c521dbe13bc6!2sWillow%20Park%20Village%20Chiropractic%20%26%20Wellness!5e0!3m2!1sen!2sca!4v1660878864381!5m2!1sen!2sca\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe></div></div><a class=\"codefor-google-map\" href=\"https://sucks.hosting\" id=\"grabmap-info\">sucks.hosting</a><style>#display-googlemap .text-marker{}.map-generator{max-width: 100%; max-height: 100%; background: none;</style></div></div>\n\n    <h3 id=\"hours\">\n      Hours\n    </h3>\n\n  <p>\n    Monday 10:30 - 06:00 pm<br>Tuesday 10:30 - 06:00 pm<br>Wednesday 10:30 - 06:00 pm<br>Saturday 10:00 am - 2:00 pm<br>\n  </p>\n\n  <p class=\"msg msg--info\">\n    Call (403) 278-5350 and ask to book an appointment with Mam or Channasit!\n  </p>",
+            "author": {
+                "name": "Gerson Nazareth"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-08-23T11:59:56-06:00",
+            "date_modified": "2023-04-24T23:55:01-06:00"
+        },
+        {
+            "id": "https://thaispa4u.com/testimonials.html",
+            "url": "https://thaispa4u.com/testimonials.html",
+            "title": "Testimonials",
+            "content_html": "\n    <figure class=\"blockquote\">\n      <blockquote>Mam and Rocky are amazing . Just finished  couple massage and everything from start to finish was amazing ...I can appreciate the firm strong pressure and also incorporate the authentic Thai massage techniques of stretching and deep pressure points. Setup was clean, professional and super friendly staffs. They really pay full attention to details and really help target problematic muscle groups.  Thank you for welcoming us and making us feel comfortable and safe. Can't wait to come back.</blockquote>\n      <figcaption>A and P, September 2021</figcaption>\n    </figure>\n\n    <figure class=\"blockquote\">\n      <blockquote>I always have the best experience whenever. I feel at home and relaxed. I highly recommend this place to anyone who's under stress and want to relax. 👍👍</blockquote>\n      <figcaption>Maykhay Deecee, March 2021</figcaption>\n    </figure>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Gerson Nazareth"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-08-23T11:56:26-06:00",
+            "date_modified": "2021-10-02T20:51:40-06:00"
+        },
+        {
+            "id": "https://thaispa4u.com/gallery.html",
+            "url": "https://thaispa4u.com/gallery.html",
+            "title": "Gallery",
+            "content_html": "\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://thaispa4u.com/media/posts/3/gallery/13871859_10153556980036086_165480041_n.jpg\" data-size=\"960x717\">\n        <img loading=\"lazy\" src=\"https://thaispa4u.com/media/posts/3/gallery/13871859_10153556980036086_165480041_n-thumbnail.jpg\" height=\"538\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://thaispa4u.com/media/posts/3/gallery/photo1.jpg\" data-size=\"1280x720\">\n        <img loading=\"lazy\" src=\"https://thaispa4u.com/media/posts/3/gallery/photo1-thumbnail.jpg\" height=\"405\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://thaispa4u.com/media/posts/3/gallery/photo2.jpg\" data-size=\"1280x720\">\n        <img loading=\"lazy\" src=\"https://thaispa4u.com/media/posts/3/gallery/photo2-thumbnail.jpg\" height=\"405\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://thaispa4u.com/media/posts/3/gallery/photo3.jpg\" data-size=\"3008x2000\">\n        <img loading=\"lazy\" src=\"https://thaispa4u.com/media/posts/3/gallery/photo3-thumbnail.jpg\" height=\"479\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
+            "author": {
+                "name": "Gerson Nazareth"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-08-23T11:54:03-06:00",
+            "date_modified": "2021-08-23T11:54:03-06:00"
+        },
+        {
+            "id": "https://thaispa4u.com/about-us.html",
+            "url": "https://thaispa4u.com/about-us.html",
+            "title": "About Us",
+            "content_html": "<p>Welcome to our beautiful and fully licenced home-based spa. At ThaiSpa4U, we are focused on providing excellent &amp; personalized treatment to every one of our customers, at affordable prices.\nAll of our therapists are registered and experienced in international massage techniques that will help you relax and rejuvenate. We encourage respect and politeness between clients &amp; staff. Allow us to treat you while you enjoy our Thai inspired atmosphere and dream of the beautiful beaches of Thailand right here in Calgary.</p>\n",
+            "image": "https://thaispa4u.com/media/posts/2/kisspng-text-separador-clip-art-5afff87ff2db98.1740043515267247359948-2.png",
+            "author": {
+                "name": "Gerson Nazareth"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-08-23T11:52:42-06:00",
+            "date_modified": "2021-10-02T21:23:29-06:00"
+        },
+        {
+            "id": "https://thaispa4u.com/home.html",
+            "url": "https://thaispa4u.com/home.html",
+            "title": "Home",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://thaispa4u.com/media/posts/1/home-page-2.jpg",
+            "author": {
+                "name": "Gerson Nazareth"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-08-23T11:52:19-06:00",
+            "date_modified": "2021-08-23T13:45:13-06:00"
+        }
+    ]
+}
