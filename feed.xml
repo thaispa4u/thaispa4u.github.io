@@ -3,7 +3,7 @@
     <title>ThaiSpa4U</title>
     <link href="https://thaispa4u.com/feed.xml" rel="self" />
     <link href="https://thaispa4u.com" />
-    <updated>2023-06-21T21:17:10-06:00</updated>
+    <updated>2023-07-03T05:47:59+05:30</updated>
     <author>
         <name>Gerson Nazareth</name>
     </author>
@@ -17,16 +17,31 @@
         <link href="https://thaispa4u.com/massages.html"/>
         <id>https://thaispa4u.com/massages.html</id>
 
-        <updated>2023-06-21T21:17:10-06:00</updated>
+        <updated>2023-07-03T05:47:59+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                 <div id="wb_Text6" class="align-center"><em>Treat yourself to a world of relaxation and comfort with us.</em></div>
-<div> </div>
-<div class="align-center"><strong>Thai Aroma/Relaxation Massage</strong><figure class="post__image post__image--center"><img loading="lazy"  src="https://thaispa4u.com/media/posts/9/massage-2.jpg" alt="" width="532" height="356" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://thaispa4u.com/media/posts/9/responsive/massage-2-xs.jpg 300w ,https://thaispa4u.com/media/posts/9/responsive/massage-2-sm.jpg 480w ,https://thaispa4u.com/media/posts/9/responsive/massage-2-md.jpg 768w ,https://thaispa4u.com/media/posts/9/responsive/massage-2-lg.jpg 1024w"></figure></div>
-<div> </div>
-<div class="align-center"><em>60 mins relaxation, that works to improve circulation and relieve muscle tension.</em></div>
-<div class="align-center"><em>$95</em></div>
+<div>
+<div>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://thaispa4u.com/media/posts/9/gallery/massage.png" data-size="3242x2159"><img loading="lazy" src="https://thaispa4u.com/media/posts/9/gallery/massage-thumbnail.png" alt="" width="768" height="511"></a>
+<figcaption>Thai Massage</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://thaispa4u.com/media/posts/9/gallery/couple-masssage.png" data-size="3230x2153"><img loading="lazy" src="https://thaispa4u.com/media/posts/9/gallery/couple-masssage-thumbnail.png" alt="" width="768" height="512"></a>
+<figcaption>Couple's Massage</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://thaispa4u.com/media/posts/9/gallery/preg-massage.png" data-size="3174x2159"><img loading="lazy" src="https://thaispa4u.com/media/posts/9/gallery/preg-massage-thumbnail.png" alt="" width="768" height="522"></a>
+<figcaption>Pre &amp; Post Natal Massage</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://thaispa4u.com/media/posts/9/gallery/hot-stone.png" data-size="3236x2154"><img loading="lazy" src="https://thaispa4u.com/media/posts/9/gallery/hot-stone-thumbnail.png" alt="" width="768" height="511"></a>
+<figcaption>Hot Stone Massage</figcaption>
+</figure>
+</div></div>
+</div>
+</div>
+<p class="align-center"> </p>
+<div class="align-center"><em>60 minutes $110<br>90 minutes $150</em></div>
 <div> </div>
             ]]>
         </content>
@@ -39,7 +54,7 @@
         <link href="https://thaispa4u.com/locations.html"/>
         <id>https://thaispa4u.com/locations.html</id>
 
-        <updated>2023-04-25T00:08:43-06:00</updated>
+        <updated>2023-04-25T11:38:43+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -108,7 +123,7 @@
         <link href="https://thaispa4u.com/testimonials.html"/>
         <id>https://thaispa4u.com/testimonials.html</id>
 
-        <updated>2021-10-02T20:51:40-06:00</updated>
+        <updated>2021-10-03T08:21:40+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -137,7 +152,7 @@
         <link href="https://thaispa4u.com/gallery.html"/>
         <id>https://thaispa4u.com/gallery.html</id>
 
-        <updated>2021-08-23T11:54:03-06:00</updated>
+        <updated>2021-08-23T23:24:03+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -179,7 +194,7 @@
         <id>https://thaispa4u.com/about-us.html</id>
         <media:content url="https://thaispa4u.com/media/posts/2/kisspng-text-separador-clip-art-5afff87ff2db98.1740043515267247359948-2.png" medium="image" />
 
-        <updated>2021-10-02T21:23:29-06:00</updated>
+        <updated>2021-10-03T08:53:29+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -199,7 +214,7 @@ All of our therapists are registered and experienced in international massage te
         <id>https://thaispa4u.com/home.html</id>
         <media:content url="https://thaispa4u.com/media/posts/1/home-page-2.jpg" medium="image" />
 
-        <updated>2021-08-23T13:45:13-06:00</updated>
+        <updated>2021-08-24T01:15:13+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[

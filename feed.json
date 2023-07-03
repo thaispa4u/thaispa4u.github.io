@@ -14,14 +14,14 @@
             "id": "https://thaispa4u.com/massages.html",
             "url": "https://thaispa4u.com/massages.html",
             "title": "Massages",
-            "content_html": "<div id=\"wb_Text6\" class=\"align-center\"><em>Treat yourself to a world of relaxation and comfort with us.</em></div>\n<div> </div>\n<div class=\"align-center\"><strong>Thai Aroma/Relaxation Massage</strong><figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://thaispa4u.com/media/posts/9/massage-2.jpg\" alt=\"\" width=\"532\" height=\"356\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://thaispa4u.com/media/posts/9/responsive/massage-2-xs.jpg 300w ,https://thaispa4u.com/media/posts/9/responsive/massage-2-sm.jpg 480w ,https://thaispa4u.com/media/posts/9/responsive/massage-2-md.jpg 768w ,https://thaispa4u.com/media/posts/9/responsive/massage-2-lg.jpg 1024w\"></figure></div>\n<div> </div>\n<div class=\"align-center\"><em>60 mins relaxation, that works to improve circulation and relieve muscle tension.</em></div>\n<div class=\"align-center\"><em>$95</em></div>\n<div> </div>",
+            "content_html": "<div id=\"wb_Text6\" class=\"align-center\"><em>Treat yourself to a world of relaxation and comfort with us.</em></div>\n<div>\n<div>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://thaispa4u.com/media/posts/9/gallery/massage.png\" data-size=\"3242x2159\"><img loading=\"lazy\" src=\"https://thaispa4u.com/media/posts/9/gallery/massage-thumbnail.png\" alt=\"\" width=\"768\" height=\"511\"></a>\n<figcaption>Thai Massage</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://thaispa4u.com/media/posts/9/gallery/couple-masssage.png\" data-size=\"3230x2153\"><img loading=\"lazy\" src=\"https://thaispa4u.com/media/posts/9/gallery/couple-masssage-thumbnail.png\" alt=\"\" width=\"768\" height=\"512\"></a>\n<figcaption>Couple's Massage</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://thaispa4u.com/media/posts/9/gallery/preg-massage.png\" data-size=\"3174x2159\"><img loading=\"lazy\" src=\"https://thaispa4u.com/media/posts/9/gallery/preg-massage-thumbnail.png\" alt=\"\" width=\"768\" height=\"522\"></a>\n<figcaption>Pre &amp; Post Natal Massage</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://thaispa4u.com/media/posts/9/gallery/hot-stone.png\" data-size=\"3236x2154\"><img loading=\"lazy\" src=\"https://thaispa4u.com/media/posts/9/gallery/hot-stone-thumbnail.png\" alt=\"\" width=\"768\" height=\"511\"></a>\n<figcaption>Hot Stone Massage</figcaption>\n</figure>\n</div></div>\n</div>\n</div>\n<p class=\"align-center\"> </p>\n<div class=\"align-center\"><em>60 minutes $110<br>90 minutes $150</em></div>\n<div> </div>",
             "author": {
                 "name": "Gerson Nazareth"
             },
             "tags": [
             ],
-            "date_published": "2021-08-23T15:07:53-06:00",
-            "date_modified": "2023-06-21T21:17:10-06:00"
+            "date_published": "2021-08-24T02:37:53+05:30",
+            "date_modified": "2023-07-03T05:47:59+05:30"
         },
         {
             "id": "https://thaispa4u.com/locations.html",
@@ -33,8 +33,8 @@
             },
             "tags": [
             ],
-            "date_published": "2021-08-23T11:59:56-06:00",
-            "date_modified": "2023-04-25T00:08:43-06:00"
+            "date_published": "2021-08-23T23:29:56+05:30",
+            "date_modified": "2023-04-25T11:38:43+05:30"
         },
         {
             "id": "https://thaispa4u.com/testimonials.html",
@@ -46,8 +46,8 @@
             },
             "tags": [
             ],
-            "date_published": "2021-08-23T11:56:26-06:00",
-            "date_modified": "2021-10-02T20:51:40-06:00"
+            "date_published": "2021-08-23T23:26:26+05:30",
+            "date_modified": "2021-10-03T08:21:40+05:30"
         },
         {
             "id": "https://thaispa4u.com/gallery.html",
@@ -59,8 +59,8 @@
             },
             "tags": [
             ],
-            "date_published": "2021-08-23T11:54:03-06:00",
-            "date_modified": "2021-08-23T11:54:03-06:00"
+            "date_published": "2021-08-23T23:24:03+05:30",
+            "date_modified": "2021-08-23T23:24:03+05:30"
         },
         {
             "id": "https://thaispa4u.com/about-us.html",
@@ -73,8 +73,8 @@
             },
             "tags": [
             ],
-            "date_published": "2021-08-23T11:52:42-06:00",
-            "date_modified": "2021-10-02T21:23:29-06:00"
+            "date_published": "2021-08-23T23:22:42+05:30",
+            "date_modified": "2021-10-03T08:53:29+05:30"
         },
         {
             "id": "https://thaispa4u.com/home.html",
@@ -87,8 +87,8 @@
             },
             "tags": [
             ],
-            "date_published": "2021-08-23T11:52:19-06:00",
-            "date_modified": "2021-08-23T13:45:13-06:00"
+            "date_published": "2021-08-23T23:22:19+05:30",
+            "date_modified": "2021-08-24T01:15:13+05:30"
         }
     ]
 }
