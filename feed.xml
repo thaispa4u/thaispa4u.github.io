@@ -3,7 +3,7 @@
     <title>ThaiSpa4U</title>
     <link href="https://thaispa4u.com/feed.xml" rel="self" />
     <link href="https://thaispa4u.com" />
-    <updated>2023-07-03T05:47:59+05:30</updated>
+    <updated>2023-07-11T09:55:21+05:30</updated>
     <author>
         <name>Gerson Nazareth</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://thaispa4u.com/massages.html"/>
         <id>https://thaispa4u.com/massages.html</id>
 
-        <updated>2023-07-03T05:47:59+05:30</updated>
+        <updated>2023-07-11T09:55:21+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -36,6 +36,9 @@
 </figure>
 <figure class="gallery__item"><a href="https://thaispa4u.com/media/posts/9/gallery/hot-stone.png" data-size="3236x2154"><img loading="lazy" src="https://thaispa4u.com/media/posts/9/gallery/hot-stone-thumbnail.png" alt="" width="768" height="511"></a>
 <figcaption>Hot Stone Massage</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://thaispa4u.com/media/posts/9/gallery/cupping-massage.png" data-size="1869x1289"><img loading="lazy" src="https://thaispa4u.com/media/posts/9/gallery/cupping-massage-thumbnail.png" alt="" width="768" height="530"></a>
+<figcaption>Cupping Massage</figcaption>
 </figure>
 </div></div>
 </div>
