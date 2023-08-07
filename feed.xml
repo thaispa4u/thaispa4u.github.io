@@ -3,7 +3,7 @@
     <title>ThaiSpa4U</title>
     <link href="https://thaispa4u.com/feed.xml" rel="self" />
     <link href="https://thaispa4u.com" />
-    <updated>2023-08-04T21:51:35+05:30</updated>
+    <updated>2023-08-07T10:05:52+05:30</updated>
     <author>
         <name>Gerson Nazareth</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://thaispa4u.com/massages.html"/>
         <id>https://thaispa4u.com/massages.html</id>
 
-        <updated>2023-08-04T21:51:35+05:30</updated>
+        <updated>2023-08-07T10:05:52+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -43,6 +43,9 @@
 <figure class="gallery__item"><a href="https://thaispa4u.com/media/posts/9/gallery/alan-caishan-cU53ZFBr3lk-unsplash.jpg" data-size="6000x4000"><img loading="lazy" src="https://thaispa4u.com/media/posts/9/gallery/alan-caishan-cU53ZFBr3lk-unsplash-thumbnail.jpg" alt="" width="768" height="512"></a>
 <figcaption>Thai Combo Massage | 60 min $110 | 90 min $150</figcaption>
 </figure>
+<figure class="gallery__item"><a href="https://thaispa4u.com/media/posts/9/gallery/conscious-design-1YclEyrXWSs-unsplash.jpg" data-size="3000x1999"><img loading="lazy" src="https://thaispa4u.com/media/posts/9/gallery/conscious-design-1YclEyrXWSs-unsplash-thumbnail.jpg" alt="" width="768" height="512"></a>
+<figcaption>Thai Therapeutic Massage | 60 min $110</figcaption>
+</figure>
 </div></div>
 </div>
 </div>
@@ -58,7 +61,7 @@
         <link href="https://thaispa4u.com/locations.html"/>
         <id>https://thaispa4u.com/locations.html</id>
 
-        <updated>2023-04-25T11:38:43+05:30</updated>
+        <updated>2023-08-07T10:03:21+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -67,8 +70,12 @@
     We are currently moving locations. Mam and Channasit are currently working at the below locations while we set up our new place.
   </p>
 
-    <h2 id="savanna-thai-massage-therapybr">
-      Savanna Thai Massage Therapy<br>
+  <p class="msg msg--info">
+    Call (403) 988-9964 or (403) 305-8203 and ask to book an appointment with Mam or Channasit!
+  </p>
+
+    <h2 id="chapparal-valley-gardensbr">
+      Chapparal Valley Gardens<br>
     </h2>
 
     <h3 id="location">
@@ -76,9 +83,9 @@
     </h3>
 
   <p>
-    Suit 6210, 5850 88 Ave NE,<br>Calgary, AB T3J 0Z7
+    Suit 6210, 5850 88 Ave NE, <br>Calgary, AB T3J 0Z7
   </p>
-<div><div style="max-width:100%;overflow:hidden;color:red;width:500px;height:300px;"><div id="display-googlemap" style="height:100%; width:100%;max-width:100%;"><div class="post__iframe"><iframe loading="lazy" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d160619.85828759702!2d-114.08081167410865!3d51.02196273111937!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x537163243b3f548d%3A0xb519e3456f0281bc!2sSavanna%20Thai%20Massage%20Therapy!5e0!3m2!1sen!2sca!4v1660878260445!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div></div><a class="codefor-google-map" href="https://sucks.hosting" id="grabmap-info">sucks.hosting</a><style>#display-googlemap .text-marker{}.map-generator{max-width: 100%; max-height: 100%; background: none;</style></div></div>
+<div><div style="max-width:100%;overflow:hidden;color:red;width:500px;height:300px;"><div id="display-googlemap" style="height:100%; width:100%;max-width:100%;"><div class="post__iframe"><iframe loading="lazy" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2503.644887943134!2d-113.95256852342322!3d51.133457937952095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x537163bf09bcaf59%3A0x4fdd33e04a099e43!2s5850%2088%20Ave%20NE%20%236210%2C%20Calgary%2C%20AB%20T3J%200Z7%2C%20Canada!5e0!3m2!1sen!2sin!4v1691382564994!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div></div><a class="codefor-google-map" href="https://sucks.hosting" id="grabmap-info">sucks.hosting</a><style>#display-googlemap .text-marker{}.map-generator{max-width: 100%; max-height: 100%; background: none;</style></div></div>
 
     <h3 id="hours">
       Hours
@@ -86,10 +93,6 @@
 
   <p>
     Sunday 10 am - 6 pm<br>Thursday 10 am - 6 pm<br>
-  </p>
-
-  <p class="msg msg--info">
-    Call or Text (587) 888-6466 and ask to book an appointment with Mam or Channasit!
   </p>
 
     <h2 id="willow-park-village-chiropractic-amp-wellnessbr">
@@ -111,10 +114,6 @@
 
   <p>
     Monday 10:30 - 06:00 pm<br>Tuesday 10:30 - 06:00 pm<br>Wednesday 10:30 - 06:00 pm<br>Saturday 10:00 am - 2:00 pm<br>
-  </p>
-
-  <p class="msg msg--info">
-    Call (403) 278-5350 and ask to book an appointment with Mam or Channasit!
   </p>
             ]]>
         </content>
