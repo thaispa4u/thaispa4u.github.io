@@ -3,7 +3,7 @@
     <title>ThaiSpa4U</title>
     <link href="https://thaispa4u.com/feed.xml" rel="self" />
     <link href="https://thaispa4u.com" />
-    <updated>2023-08-07T10:05:52+05:30</updated>
+    <updated>2023-08-25T10:25:51+05:30</updated>
     <author>
         <name>Gerson Nazareth</name>
     </author>
@@ -61,7 +61,7 @@
         <link href="https://thaispa4u.com/locations.html"/>
         <id>https://thaispa4u.com/locations.html</id>
 
-        <updated>2023-08-07T10:03:21+05:30</updated>
+        <updated>2023-08-25T10:25:51+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -83,9 +83,8 @@
     </h3>
 
   <p>
-    Suit 6210, 5850 88 Ave NE, <br>Calgary, AB T3J 0Z7
+    Chapparal Valley Gardens SE, <br>Calgary, AB
   </p>
-<div><div style="max-width:100%;overflow:hidden;color:red;width:500px;height:300px;"><div id="display-googlemap" style="height:100%; width:100%;max-width:100%;"><div class="post__iframe"><iframe loading="lazy" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2503.644887943134!2d-113.95256852342322!3d51.133457937952095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x537163bf09bcaf59%3A0x4fdd33e04a099e43!2s5850%2088%20Ave%20NE%20%236210%2C%20Calgary%2C%20AB%20T3J%200Z7%2C%20Canada!5e0!3m2!1sen!2sin!4v1691382564994!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div></div><a class="codefor-google-map" href="https://sucks.hosting" id="grabmap-info">sucks.hosting</a><style>#display-googlemap .text-marker{}.map-generator{max-width: 100%; max-height: 100%; background: none;</style></div></div>
 
     <h3 id="hours">
       Hours
@@ -98,15 +97,6 @@
     <h2 id="willow-park-village-chiropractic-amp-wellnessbr">
       Willow Park Village Chiropractic &amp; Wellness<br>
     </h2>
-
-    <h3 id="location">
-      Location
-    </h3>
-
-  <p>
-    Suit 108, 10816 Macleod Trail,<br>Calgary, AB T2J 5N8
-  </p>
-<div><div style="max-width:100%;overflow:hidden;color:red;width:500px;height:300px;"><div id="display-googlemap" style="height:100%; width:100%;max-width:100%;"><div class="post__iframe"><iframe loading="lazy" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2513.175783067551!2d-114.0717594843531!3d50.95745415858372!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53717133840bbbd3%3A0xd605c521dbe13bc6!2sWillow%20Park%20Village%20Chiropractic%20%26%20Wellness!5e0!3m2!1sen!2sca!4v1660878864381!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div></div><a class="codefor-google-map" href="https://sucks.hosting" id="grabmap-info">sucks.hosting</a><style>#display-googlemap .text-marker{}.map-generator{max-width: 100%; max-height: 100%; background: none;</style></div></div>
 
     <h3 id="hours">
       Hours
