@@ -27,14 +27,14 @@
             "id": "https://thaispa4u.com/locations.html",
             "url": "https://thaispa4u.com/locations.html",
             "title": "Locations &amp; Hours",
-            "content_html": "\n  <p class=\"msg msg--highlight\">\n    We are currently moving locations. Mam and Channasit are currently working at the below locations while we set up our new place.\n  </p>\n\n  <p class=\"msg msg--info\">\n    Call (403) 988-9964 or (403) 305-8203 and ask to book an appointment with Mam or Channasit!\n  </p>\n\n    <h2 id=\"chapparal-valley-gardensbr\">\n      Chapparal Valley Gardens<br>\n    </h2>\n\n    <h3 id=\"location\">\n      Location\n    </h3>\n\n  <p>\n    Chapparal Valley Gardens SE, <br>Calgary, AB\n  </p>\n\n    <h3 id=\"hours\">\n      Hours\n    </h3>\n\n  <p>\n    Tuesday 10 am - 6 pm<br>Friday 10 am - 6 pm<br>\n  </p>\n\n    <h2 id=\"willow-park-village-chiropractic-amp-wellnessbr\">\n      Willow Park Village Chiropractic &amp; Wellness<br>\n    </h2>\n\n    <h3 id=\"hours\">\n      Hours\n    </h3>\n\n  <p>\n    Monday 10:30 - 06:00 pm<br>Tuesday 10:30 - 06:00 pm<br>Wednesday 10:30 - 06:00 pm<br>Saturday 10:00 am - 2:00 pm<br>\n  </p>",
+            "content_html": "\n  <p class=\"msg msg--highlight\">\n    We are currently moving locations. Mam and Channasit are currently working at the below locations while we set up our new place.\n  </p>\n\n  <p class=\"msg msg--info\">\n    Call (403) 988-9964 or (403) 305-8203 and ask to book an appointment with Mam or Channasit!\n  </p>\n\n    <h3 id=\"chapparal-valley-gardensbr\">\n      Chapparal Valley Gardens<br>\n    </h3>\n\n    <h4 id=\"location\">\n      Location\n    </h4>\n\n  <p>\n    Chapparal Valley Gardens SE, <br>Calgary, AB\n  </p>\n\n    <h4 id=\"hours\">\n      Hours\n    </h4>\n\n  <p>\n    Tuesday 10 am - 6 pm<br>Friday 10 am - 6 pm<br>\n  </p>\n\n    <h3 id=\"willow-park-village-chiropractic-amp-wellnessbr\">\n      Willow Park Village Chiropractic &amp; Wellness<br>\n    </h3>\n\n    <h4 id=\"hours\">\n      Hours\n    </h4>\n\n  <p>\n    Monday 10:30 - 06:00 pm<br>Tuesday 10:30 - 06:00 pm<br>Wednesday 10:30 - 06:00 pm<br>Saturday 10:00 am - 2:00 pm<br>\n  </p>",
             "author": {
                 "name": "Gerson Nazareth"
             },
             "tags": [
             ],
             "date_published": "2021-08-23T23:29:56+05:30",
-            "date_modified": "2023-08-29T14:13:56+05:30"
+            "date_modified": "2023-08-29T14:17:18+05:30"
         },
         {
             "id": "https://thaispa4u.com/testimonials.html",

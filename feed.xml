@@ -3,7 +3,7 @@
     <title>ThaiSpa4U</title>
     <link href="https://thaispa4u.com/feed.xml" rel="self" />
     <link href="https://thaispa4u.com" />
-    <updated>2023-08-29T14:13:56+05:30</updated>
+    <updated>2023-08-29T14:17:18+05:30</updated>
     <author>
         <name>Gerson Nazareth</name>
     </author>
@@ -61,7 +61,7 @@
         <link href="https://thaispa4u.com/locations.html"/>
         <id>https://thaispa4u.com/locations.html</id>
 
-        <updated>2023-08-29T14:13:56+05:30</updated>
+        <updated>2023-08-29T14:17:18+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -74,33 +74,33 @@
     Call (403) 988-9964 or (403) 305-8203 and ask to book an appointment with Mam or Channasit!
   </p>
 
-    <h2 id="chapparal-valley-gardensbr">
+    <h3 id="chapparal-valley-gardensbr">
       Chapparal Valley Gardens<br>
-    </h2>
-
-    <h3 id="location">
-      Location
     </h3>
+
+    <h4 id="location">
+      Location
+    </h4>
 
   <p>
     Chapparal Valley Gardens SE, <br>Calgary, AB
   </p>
 
-    <h3 id="hours">
+    <h4 id="hours">
       Hours
-    </h3>
+    </h4>
 
   <p>
     Tuesday 10 am - 6 pm<br>Friday 10 am - 6 pm<br>
   </p>
 
-    <h2 id="willow-park-village-chiropractic-amp-wellnessbr">
+    <h3 id="willow-park-village-chiropractic-amp-wellnessbr">
       Willow Park Village Chiropractic &amp; Wellness<br>
-    </h2>
-
-    <h3 id="hours">
-      Hours
     </h3>
+
+    <h4 id="hours">
+      Hours
+    </h4>
 
   <p>
     Monday 10:30 - 06:00 pm<br>Tuesday 10:30 - 06:00 pm<br>Wednesday 10:30 - 06:00 pm<br>Saturday 10:00 am - 2:00 pm<br>
