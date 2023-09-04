@@ -3,7 +3,7 @@
     <title>ThaiSpa4U</title>
     <link href="https://thaispa4u.com/feed.xml" rel="self" />
     <link href="https://thaispa4u.com" />
-    <updated>2023-08-29T14:17:18+05:30</updated>
+    <updated>2023-09-04T09:14:09+05:30</updated>
     <author>
         <name>Gerson Nazareth</name>
     </author>
@@ -17,39 +17,46 @@
         <link href="https://thaispa4u.com/massages.html"/>
         <id>https://thaispa4u.com/massages.html</id>
 
-        <updated>2023-08-29T14:13:12+05:30</updated>
+        <updated>2023-09-04T09:14:09+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <div id="wb_Text6" class="align-center"><em>Treat yourself to a world of relaxation and comfort with us.</em></div>
-<div>
-<div>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://thaispa4u.com/media/posts/9/gallery/massage.png" data-size="3242x2159"><img loading="lazy" src="https://thaispa4u.com/media/posts/9/gallery/massage-thumbnail.png" alt="" width="768" height="511"></a>
-<figcaption>Traditional Thai Massage | 60 min $125</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://thaispa4u.com/media/posts/9/gallery/couple-masssage.png" data-size="3230x2153"><img loading="lazy" src="https://thaispa4u.com/media/posts/9/gallery/couple-masssage-thumbnail.png" alt="" width="768" height="512"></a>
-<figcaption>Couple's Massage</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://thaispa4u.com/media/posts/9/gallery/hot-stone.png" data-size="3236x2154"><img loading="lazy" src="https://thaispa4u.com/media/posts/9/gallery/hot-stone-thumbnail.png" alt="" width="768" height="511"></a>
-<figcaption>Hot Stone Massage | 60 min $110 | 90 min $150</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://thaispa4u.com/media/posts/9/gallery/massage-2.png" data-size="3242x2159"><img loading="lazy" src="https://thaispa4u.com/media/posts/9/gallery/massage-2-thumbnail.png" alt="" width="768" height="511"></a>
-<figcaption>Pre &amp; Post Natal Massage | 60 min $110 | 90 min $150</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://thaispa4u.com/media/posts/9/gallery/cupping-massage.png" data-size="1869x1289"><img loading="lazy" src="https://thaispa4u.com/media/posts/9/gallery/cupping-massage-thumbnail.png" alt="" width="768" height="530"></a>
-<figcaption>Cupping Massage | 60 min $110 | 90 min $150</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://thaispa4u.com/media/posts/9/gallery/alan-caishan-cU53ZFBr3lk-unsplash.jpg" data-size="6000x4000"><img loading="lazy" src="https://thaispa4u.com/media/posts/9/gallery/alan-caishan-cU53ZFBr3lk-unsplash-thumbnail.jpg" alt="" width="768" height="512"></a>
-<figcaption>Thai Combo Massage | 60 min $110 | 90 min $150</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://thaispa4u.com/media/posts/9/gallery/massage-3.png" data-size="3242x2159"><img loading="lazy" src="https://thaispa4u.com/media/posts/9/gallery/massage-3-thumbnail.png" alt="" width="768" height="511"></a>
-<figcaption>Thai Therapeutic Massage | 60 min $110</figcaption>
-</figure>
-</div></div>
-</div>
-</div>
-<div> </div>
+                <h2 class="align-center">Traditional Thai Massage</h2>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://thaispa4u.com/media/posts/9/massage-2.png" alt="" width="540" height="360" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://thaispa4u.com/media/posts/9/responsive/massage-2-xs.png 300w ,https://thaispa4u.com/media/posts/9/responsive/massage-2-sm.png 480w ,https://thaispa4u.com/media/posts/9/responsive/massage-2-md.png 768w ,https://thaispa4u.com/media/posts/9/responsive/massage-2-lg.png 1024w"></figure>
+<p class="align-center"><em>Thai massage combines compression, acupressure, and passive stretching. It helps to increase the range of motion in your joints and muscles.</em></p>
+<p class="align-center">$125 / 60 min</p>
+<hr>
+<h2 class="align-center">Cupping Massage</h2>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://thaispa4u.com/media/posts/9/cupping-massage-2.png" alt="" width="540" height="372" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://thaispa4u.com/media/posts/9/responsive/cupping-massage-2-xs.png 300w ,https://thaispa4u.com/media/posts/9/responsive/cupping-massage-2-sm.png 480w ,https://thaispa4u.com/media/posts/9/responsive/cupping-massage-2-md.png 768w ,https://thaispa4u.com/media/posts/9/responsive/cupping-massage-2-lg.png 1024w"></figure>
+<p class="align-center"><em>Cupping is more of a deep tissue massage that helps alleviate pain and inflammation. This helps with general well-being and blood flow all while you relax.</em></p>
+<p class="align-center">$110 / 60 min | $150 / 90 min</p>
+<hr>
+<h2 class="align-center">Thai Combo Massage</h2>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://thaispa4u.com/media/posts/9/alan-caishan-cU53ZFBr3lk-unsplash-2.jpg" alt="" width="540" height="360" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://thaispa4u.com/media/posts/9/responsive/alan-caishan-cU53ZFBr3lk-unsplash-2-xs.jpg 300w ,https://thaispa4u.com/media/posts/9/responsive/alan-caishan-cU53ZFBr3lk-unsplash-2-sm.jpg 480w ,https://thaispa4u.com/media/posts/9/responsive/alan-caishan-cU53ZFBr3lk-unsplash-2-md.jpg 768w ,https://thaispa4u.com/media/posts/9/responsive/alan-caishan-cU53ZFBr3lk-unsplash-2-lg.jpg 1024w"></figure>
+<p class="align-center"><em>A massage that beautifully combines a relaxation massage with techniques from Traditional Thai massage therapy.</em></p>
+<p class="align-center">$125 / 60 min</p>
+<hr>
+<h2 class="align-center">Couple's Massage</h2>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://thaispa4u.com/media/posts/9/couple-masssage-2.png" alt="" width="540" height="360" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://thaispa4u.com/media/posts/9/responsive/couple-masssage-2-xs.png 300w ,https://thaispa4u.com/media/posts/9/responsive/couple-masssage-2-sm.png 480w ,https://thaispa4u.com/media/posts/9/responsive/couple-masssage-2-md.png 768w ,https://thaispa4u.com/media/posts/9/responsive/couple-masssage-2-lg.png 1024w"></figure>
+<p class="align-center"><em>Indulge in the art of relaxation together with our rejuvenating couple's </em><em>massage experience.</em></p>
+<p class="align-center">$110 / Person / 60 min</p>
+<hr>
+<h2 class="align-center">Hot Stone Massage</h2>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://thaispa4u.com/media/posts/9/hot-stone-2.png" alt="" width="540" height="359" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://thaispa4u.com/media/posts/9/responsive/hot-stone-2-xs.png 300w ,https://thaispa4u.com/media/posts/9/responsive/hot-stone-2-sm.png 480w ,https://thaispa4u.com/media/posts/9/responsive/hot-stone-2-md.png 768w ,https://thaispa4u.com/media/posts/9/responsive/hot-stone-2-lg.png 1024w"></figure>
+<p class="align-center"><em>Indulge in the ultimate relaxation with our Hot Stone Massage, where heated stones are placed on key points of your body to melt away tension and promote deep relaxation.</em></p>
+<p class="align-center">$110 / 60 min | $150 / 90 min</p>
+<hr>
+<h2 class="align-center">Pre &amp; Post Natal Massage</h2>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://thaispa4u.com/media/posts/9/pregnancy-massage-2.png" alt="" width="540" height="360" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://thaispa4u.com/media/posts/9/responsive/pregnancy-massage-2-xs.png 300w ,https://thaispa4u.com/media/posts/9/responsive/pregnancy-massage-2-sm.png 480w ,https://thaispa4u.com/media/posts/9/responsive/pregnancy-massage-2-md.png 768w ,https://thaispa4u.com/media/posts/9/responsive/pregnancy-massage-2-lg.png 1024w"></figure>
+<p class="align-center"><em>Nurture your body and baby with our specialized pre and postnatal massage. Relax and relieve tension while promoting overall well-being during this special time.</em></p>
+<p class="align-center">$110 / 60 min | $150 / 90 min</p>
+<hr>
+<h2 class="align-center">Thai Therapeutic Massage</h2>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://thaispa4u.com/media/posts/9/massage-3.png" alt="" width="540" height="359" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://thaispa4u.com/media/posts/9/responsive/massage-3-xs.png 300w ,https://thaispa4u.com/media/posts/9/responsive/massage-3-sm.png 480w ,https://thaispa4u.com/media/posts/9/responsive/massage-3-md.png 768w ,https://thaispa4u.com/media/posts/9/responsive/massage-3-lg.png 1024w"></figure>
+<p class="align-center"><em>Experience the healing power of Thai Therapeutic Massage and unlock your body's natural balance and vitality.</em></p>
+<p class="align-center">$110 / 60 min | $150 / 90 min</p>
+<hr>
+<p> </p>
             ]]>
         </content>
     </entry>
