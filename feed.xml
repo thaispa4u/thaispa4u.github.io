@@ -3,7 +3,7 @@
     <title>ThaiSpa4U</title>
     <link href="https://thaispa4u.com/feed.xml" rel="self" />
     <link href="https://thaispa4u.com" />
-    <updated>2023-09-04T09:14:09+05:30</updated>
+    <updated>2023-09-08T09:49:33+05:30</updated>
     <author>
         <name>Gerson Nazareth</name>
     </author>
@@ -17,12 +17,12 @@
         <link href="https://thaispa4u.com/massages.html"/>
         <id>https://thaispa4u.com/massages.html</id>
 
-        <updated>2023-09-04T09:14:09+05:30</updated>
+        <updated>2023-09-08T09:49:33+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                 <h2 class="align-center">Traditional Thai Massage</h2>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://thaispa4u.com/media/posts/9/massage-2.png" alt="" width="540" height="360" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://thaispa4u.com/media/posts/9/responsive/massage-2-xs.png 300w ,https://thaispa4u.com/media/posts/9/responsive/massage-2-sm.png 480w ,https://thaispa4u.com/media/posts/9/responsive/massage-2-md.png 768w ,https://thaispa4u.com/media/posts/9/responsive/massage-2-lg.png 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://thaispa4u.com/media/posts/9/thai-massage-2.png" alt="" width="540" height="361" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://thaispa4u.com/media/posts/9/responsive/thai-massage-2-xs.png 300w ,https://thaispa4u.com/media/posts/9/responsive/thai-massage-2-sm.png 480w ,https://thaispa4u.com/media/posts/9/responsive/thai-massage-2-md.png 768w ,https://thaispa4u.com/media/posts/9/responsive/thai-massage-2-lg.png 1024w"></figure>
 <p class="align-center"><em>Thai massage combines compression, acupressure, and passive stretching. It helps to increase the range of motion in your joints and muscles.</em></p>
 <p class="align-center">$125 / 60 min</p>
 <hr>
@@ -44,7 +44,7 @@
 <h2 class="align-center">Hot Stone Massage</h2>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://thaispa4u.com/media/posts/9/hot-stone-2.png" alt="" width="540" height="359" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://thaispa4u.com/media/posts/9/responsive/hot-stone-2-xs.png 300w ,https://thaispa4u.com/media/posts/9/responsive/hot-stone-2-sm.png 480w ,https://thaispa4u.com/media/posts/9/responsive/hot-stone-2-md.png 768w ,https://thaispa4u.com/media/posts/9/responsive/hot-stone-2-lg.png 1024w"></figure>
 <p class="align-center"><em>Indulge in the ultimate relaxation with our Hot Stone Massage, where heated stones are placed on key points of your body to melt away tension and promote deep relaxation.</em></p>
-<p class="align-center">$110 / 60 min | $150 / 90 min</p>
+<p class="align-center">$125 / 60 min</p>
 <hr>
 <h2 class="align-center">Pre &amp; Post Natal Massage</h2>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://thaispa4u.com/media/posts/9/pregnancy-massage-2.png" alt="" width="540" height="360" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://thaispa4u.com/media/posts/9/responsive/pregnancy-massage-2-xs.png 300w ,https://thaispa4u.com/media/posts/9/responsive/pregnancy-massage-2-sm.png 480w ,https://thaispa4u.com/media/posts/9/responsive/pregnancy-massage-2-md.png 768w ,https://thaispa4u.com/media/posts/9/responsive/pregnancy-massage-2-lg.png 1024w"></figure>
@@ -56,7 +56,11 @@
 <p class="align-center"><em>Experience the healing power of Thai Therapeutic Massage and unlock your body's natural balance and vitality.</em></p>
 <p class="align-center">$110 / 60 min | $150 / 90 min</p>
 <hr>
-<p> </p>
+<h4 class="msg--highlight  align-center msg--info"><span style="color: #e03e2d;"><em><br><span style="color: #000000;">Starting in June 2024...</span><br><br></em></span></h4>
+<h2 class="align-center">Thai Hot Herbal Massage</h2>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://thaispa4u.com/media/posts/9/massage-2.png" alt="" width="540" height="360" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://thaispa4u.com/media/posts/9/responsive/massage-2-xs.png 300w ,https://thaispa4u.com/media/posts/9/responsive/massage-2-sm.png 480w ,https://thaispa4u.com/media/posts/9/responsive/massage-2-md.png 768w ,https://thaispa4u.com/media/posts/9/responsive/massage-2-lg.png 1024w"></figure>
+<p class="align-center"><em>Add a Thai Hot herbal massage to your massage for an additional $50/ hour only!!</em></p>
+<p class="align-center">$50 / 60 min</p>
             ]]>
         </content>
     </entry>
@@ -68,17 +72,17 @@
         <link href="https://thaispa4u.com/locations.html"/>
         <id>https://thaispa4u.com/locations.html</id>
 
-        <updated>2023-08-29T14:17:18+05:30</updated>
+        <updated>2023-09-08T09:34:33+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                 
   <p class="msg msg--highlight">
-    We are currently moving locations. Mam and Channasit are currently working at the below locations while we set up our new place.
+    We are currently moving locations. Mam and Rocky (Chanasit) are currently working at the below locations while we set up our new place.
   </p>
 
   <p class="msg msg--info">
-    Call (403) 988-9964 or (403) 305-8203 and ask to book an appointment with Mam or Channasit!
+    Call (403) 988-9964 or (403) 305-8203 and ask to book an appointment with Mam or Rocky (Chanasit)!
   </p>
 
     <h3 id="chapparal-valley-gardensbr">
@@ -98,7 +102,7 @@
     </h4>
 
   <p>
-    Tuesday 10 am - 6 pm<br>Friday 10 am - 6 pm<br>
+    Monday 6:45 pm - 9 pm<br>Tuesday 10 am - 6 pm,&nbsp; 6:45 pm - 9 pm<br>Wednesday&nbsp; 6:45 pm - 9 pm<br>Thursday&nbsp;  6:45 pm - 9 pm<br>Friday 10 am - 6 pm,&nbsp;  6:45 pm - 9 pm<br>
   </p>
 
     <h3 id="willow-park-village-chiropractic-amp-wellnessbr">
