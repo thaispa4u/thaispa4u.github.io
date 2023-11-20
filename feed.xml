@@ -3,7 +3,7 @@
     <title>ThaiSpa4U</title>
     <link href="https://thaispa4u.com/feed.xml" rel="self" />
     <link href="https://thaispa4u.com" />
-    <updated>2023-11-19T20:19:44-07:00</updated>
+    <updated>2023-11-19T22:28:17-07:00</updated>
     <author>
         <name>Gerson Nazareth</name>
     </author>
@@ -17,11 +17,12 @@
         <link href="https://thaispa4u.com/massages.html"/>
         <id>https://thaispa4u.com/massages.html</id>
 
-        <updated>2023-09-07T22:25:47-06:00</updated>
+        <updated>2023-11-19T22:28:17-07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <h2 class="align-center">Traditional Thai Massage</h2>
+                <p class="align-center msg--highlight"><strong>PROMO<br></strong>Book a 1 hour massage with Rocky and get an additional 15 minutes free<br>Only applicable on your first massage with Rocky</p>
+<h2 class="align-center">Traditional Thai Massage</h2>
 <figure class="post__image"><img loading="lazy"  src="https://thaispa4u.com/media/posts/9/thai-massage.png" alt="" width="540" height="361" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://thaispa4u.com/media/posts/9/responsive/thai-massage-xs.png 300w ,https://thaispa4u.com/media/posts/9/responsive/thai-massage-sm.png 480w ,https://thaispa4u.com/media/posts/9/responsive/thai-massage-md.png 768w ,https://thaispa4u.com/media/posts/9/responsive/thai-massage-lg.png 1024w"></figure>
 <p class="align-center"><em>Thai massage combines compression, acupressure, and passive stretching. It helps to increase the range of motion in your joints and muscles.</em></p>
 <p class="align-center">$125 / 60 min</p>
@@ -72,25 +73,21 @@
         <link href="https://thaispa4u.com/locations.html"/>
         <id>https://thaispa4u.com/locations.html</id>
 
-        <updated>2023-11-19T20:19:44-07:00</updated>
+        <updated>2023-11-19T22:21:25-07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                 
   <p class="msg msg--highlight">
-    We are currently moving locations. Mam and Rocky (Chanasit) are currently working at the below locations while we set up our new place.
+    Mam is on holiday from January 8th, 2024 to April&nbsp;16th, 2024.
   </p>
 
-  <p class="msg msg--info">
-    Call (403) 988-9964 or (403) 305-8203 and ask to book an appointment with Mam or Rocky (Chanasit)!
-  </p>
+    <h2 id="chapparal">
+      Chapparal
+    </h2>
 
-    <h3 id="chapparal-valley-gardensbr">
-      Chapparal Valley Gardens<br>
-    </h3>
-
-    <h4 id="location">
-      Location
+    <h4 id="chapparal-valley-gardensandnbsplessbrgreater">
+      Chapparal Valley Gardens&nbsp;<br>
     </h4>
 
   <p>
@@ -102,19 +99,35 @@
     </h4>
 
   <p>
-    Monday 6:45 pm - 8 pm<br>Tuesday 10 am - 6 pm,&nbsp; 6:45 pm - 8 pm<br>Wednesday&nbsp; 6:45 pm - 8 pm<br>Thursday&nbsp;  6:45 pm - 8 pm<br>Friday 10 am - 6 pm,&nbsp;  6:45 pm - 8 pm<br>
+    Monday 6:45 pm - 8:00 pm<br>Tuesday 10:00 am - 6:00 pm,&nbsp; 6:45 pm - 8:00 pm<br>Wednesday&nbsp; 6:45 pm - 8:00 pm<br>Thursday&nbsp;  6:45 pm - 8:00 pm<br>Friday 10:00 am - 6:00 pm,&nbsp;  6:45 pm - 8:00 pm<br>
   </p>
 
-    <h3 id="willow-park-village-chiropractic-andamp-wellnesslessbrgreater">
-      Willow Park Village Chiropractic &amp; Wellness<br>
+  <p>
+    Call <b><a href="tel:+14039889964" target="_blank">(403) 988-9964</a></b> or <b><a href="tel:+14033058203" target="_blank">(403) 305-8203</a></b> and ask to book an appointment with Mam or Rocky.
+  </p>
+
+    <h3 id="willow-park-village-chiropractic-andamp-wellness">
+      Willow Park Village Chiropractic &amp; Wellness
     </h3>
 
-    <h4 id="hours">
-      Hours
+    <h4 id="mams-availability">
+      Mam's Availability
     </h4>
 
   <p>
-    Monday 10:30 - 06:00 pm<br>Tuesday 10:30 - 06:00 pm<br>Wednesday 10:30 - 06:00 pm<br>Saturday 10:00 am - 2:00 pm<br>
+    Monday 10:00 - 06:00 pm<br>Tuesday 10:00 - 06:00 pm<br>Wednesday 10:00 - 06:00 pm<br>Saturday 9:30 am - 2:00 pm
+  </p>
+
+    <h4 id="rockys-availability">
+      Rocky's Availability
+    </h4>
+
+  <p>
+    Monday 10:00 - 06:00 pm<br>Saturday 9:30 am - 2:00 pm
+  </p>
+
+  <p>
+    Call <b><a href="tel:+1403278-5350" target="_blank">(403) 278-5350</a></b> and ask for Mam or Rocky, or book online directly by clicking on <a href="https://chiropracticwellnessyyc.janeapp.com/#/staff_member/11" target="_blank">Mam</a>&nbsp;or <a href="https://chiropracticwellnessyyc.janeapp.com/#/staff_member/12" target="_blank">Rocky</a>.
   </p>
             ]]>
         </content>
@@ -218,14 +231,14 @@ All of our therapists are registered and experienced in international massage te
         <id>https://thaispa4u.com/home.html</id>
         <media:content url="https://thaispa4u.com/media/posts/1/home-page-2.jpg" medium="image" />
 
-        <updated>2021-08-23T13:45:13-06:00</updated>
+        <updated>2023-11-19T22:24:25-07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://thaispa4u.com/media/posts/1/home-page-2.jpg" class="type:primaryImage" alt="" /></p>
                 
-  <p>
-    
+  <p class="msg msg--info">
+    Mam is on holiday from January 8th, 2024 to April 16th, 2024.
   </p>
             ]]>
         </content>
