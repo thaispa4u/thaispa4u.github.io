@@ -5,7 +5,7 @@
 <loc>https://thaispa4u.com/</loc>
 </url>
 <url>
-<loc>https://thaispa4u.com/about-us.html</loc>
+<loc>https://thaispa4u.com/about-us/</loc>
 <lastmod>2024-05-04T13:53:14+05:30</lastmod>
 <image:image>
 <image:loc>https://thaispa4u.com/media/posts/2/kisspng-text-separador-clip-art-5afff87ff2db98.1740043515267247359948-2.png</image:loc>
@@ -13,7 +13,7 @@
 </image:image>
 </url>
 <url>
-<loc>https://thaispa4u.com/gallery.html</loc>
+<loc>https://thaispa4u.com/gallery/</loc>
 <lastmod>2024-05-04T13:53:09+05:30</lastmod>
 <image:image>
 <image:loc>https://thaispa4u.com/media/posts/3/gallery/13871859_10153556980036086_165480041_n.jpg</image:loc>
@@ -33,7 +33,7 @@
 </image:image>
 </url>
 <url>
-<loc>https://thaispa4u.com/home.html</loc>
+<loc>https://thaispa4u.com/home/</loc>
 <lastmod>2024-05-04T13:48:16+05:30</lastmod>
 <image:image>
 <image:loc>https://thaispa4u.com/media/posts/1/home-page-2.jpg</image:loc>
@@ -41,11 +41,11 @@
 </image:image>
 </url>
 <url>
-<loc>https://thaispa4u.com/locations.html</loc>
+<loc>https://thaispa4u.com/locations/</loc>
 <lastmod>2024-05-29T22:36:44+05:30</lastmod>
 </url>
 <url>
-<loc>https://thaispa4u.com/massages.html</loc>
+<loc>https://thaispa4u.com/massages/</loc>
 <lastmod>2024-05-04T13:49:48+05:30</lastmod>
 <image:image>
 <image:loc>https://thaispa4u.com/media/posts/9/thai-massage.png</image:loc>
@@ -81,7 +81,7 @@
 </image:image>
 </url>
 <url>
-<loc>https://thaispa4u.com/testimonials.html</loc>
+<loc>https://thaispa4u.com/testimonials/</loc>
 <lastmod>2021-10-03T08:21:40+05:30</lastmod>
 </url>
 </urlset>
