@@ -80,7 +80,7 @@
             "id": "https://thaispa4u.com/home/",
             "url": "https://thaispa4u.com/home/",
             "title": "Home",
-            "content_html": "\n  <p>\n    \n  </p>",
+            "content_html": "\n  <p>\n    Call to book: (403) 988-9964 or (403) 305-8203<br><br><br><br><br>\n  </p>",
             "image": "https://thaispa4u.com/media/posts/1/home-page-2.jpg",
             "author": {
                 "name": "Gerson Nazareth"
@@ -88,7 +88,7 @@
             "tags": [
             ],
             "date_published": "2021-08-23T23:22:19+05:30",
-            "date_modified": "2024-05-04T13:48:16+05:30"
+            "date_modified": "2024-07-04T21:50:36+05:30"
         }
     ]
 }
