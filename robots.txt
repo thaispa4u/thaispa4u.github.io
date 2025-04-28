@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://thaispa4u.com/sitemap.xml
