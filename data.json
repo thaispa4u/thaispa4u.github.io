@@ -109,15 +109,6 @@
         "mapLink": "https://www.google.com/maps/search/?api=1&query=Willow+Park+Village+Chiropractic+%26+Wellness+Calgary+AB",
         "masseuses": [
           {
-            "name": "Mam",
-             "availability": [
-               { "day": "Monday", "times": [{ "start": "10:00 AM", "end": "6:00 PM" }] },
-               { "day": "Wednesday", "times": [{ "start": "10:00 AM", "end": "6:00 PM" }] },
-               { "day": "Saturday", "times": [{ "start": "9:00 AM", "end": "2:00 PM" }] }
-             ],
-            "booking_cta": "Call (403) 278-5350 to book with Mam, or ask about online booking."
-          },
-          {
             "name": "Rocky",
              "availability": [
                { "day": "Saturday", "times": [{ "start": "9:30 AM", "end": "2:00 PM" }] }
@@ -167,9 +158,9 @@
       "content": "Welcome to our beautiful and fully licenced home-based spa. At ThaiSpa4U, we are focused on providing excellent & personalized treatment to every one of our customers, at affordable prices. All of our therapists are registered and experienced in international massage techniques that will help you relax and rejuvenate. We encourage respect and politeness between clients & staff. Allow us to treat you while you enjoy our Thai inspired atmosphere and dream of the beautiful beaches of Thailand right here in Calgary."
     },
     "social_links": {
-      "facebook": "https://facebook.com/thaispa4u",
-      "twitter": "https://twitter.com/thaispa4u",
-      "linkedin": "https://linkedin.com/company/thaispa4u"
+      "facebook": "https://www.facebook.com/ThaiSpa4U-202905510063654/",
+      "twitter": "https://x.com/thai_spa4u",
+      "linkedin": "https://www.linkedin.com/in/thai-spa-43614b116?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjjE8jzS3RqK21KbDjrsOGA%3D%3D"
     }
   }
   
