@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body class="bg-gray-50">
     <!-- Navigation -->
@@ -18,7 +18,7 @@
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex justify-between h-24">
                 <div class="flex items-center">
-                    <img src="images/logo2.png" alt="Thai Spa 4U Logo" class="h-20 md:h-24 py-2">
+                    <img src="images/logo2.png" alt="Thai Spa 4U Logo" class="h-20 md:h-24 py-2 transition-transform hover:scale-105">
                 </div>
                 <!-- Desktop Navigation -->
                 <div class="hidden md:flex items-center space-x-8">
@@ -26,6 +26,9 @@
                     <a href="#locations" class="nav-link text-gray-700 hover:text-[#FA8F7C] scroll-link" aria-label="Find our locations">Locations</a>
                     <a href="#about" class="nav-link text-gray-700 hover:text-[#FA8F7C] scroll-link" aria-label="Learn about us">About</a>
                     <a href="#testimonials" class="nav-link text-gray-700 hover:text-[#FA8F7C] scroll-link" aria-label="Read testimonials">Testimonials</a>
+                    <a href="tel:4039889964" class="cta-button" aria-label="Call to book an appointment">
+                        Book Now
+                    </a>
                 </div>
                 <!-- Mobile Menu Button -->
                 <button class="md:hidden text-gray-700 focus:outline-none" id="mobileMenuButton" aria-label="Toggle menu" aria-expanded="false" aria-controls="mobileMenu">
@@ -42,25 +45,36 @@
             <a href="#locations" class="nav-link text-gray-700 hover:text-[#FA8F7C] scroll-link" aria-label="Find our locations">Locations</a>
             <a href="#about" class="nav-link text-gray-700 hover:text-[#FA8F7C] scroll-link" aria-label="Learn about us">About</a>
             <a href="#testimonials" class="nav-link text-gray-700 hover:text-[#FA8F7C] scroll-link" aria-label="Read testimonials">Testimonials</a>
+            <a href="tel:4039889964" class="cta-button text-center" aria-label="Call to book an appointment">
+                Book Now
+            </a>
         </div>
     </div>
 
     <!-- Hero Section -->
-    <section class="hero-image h-[40vh] flex items-center justify-center text-white pt-16 px-4" role="banner">
-        <div class="text-center max-w-4xl mx-auto">
-            <h1 class="text-2xl md:text-3xl font-bold mb-2" id="heroTitle">Experience Authentic Thai Relaxation</h1>
-            <p class="text-sm md:text-base mb-4 px-4" id="heroSubtitle">Your sanctuary for traditional Thai massage and wellness.</p>
-            <a href="tel:4039889964" class="inline-block bg-[#FA8F7C] hover:bg-[#e87f6c] text-white font-bold py-2 px-6 rounded-lg text-sm transition-colors duration-200" id="heroCTA" aria-label="Call to book an appointment">
-                Call to Book: (403) 988-9964
-            </a>
+    <section class="hero-image" role="banner">
+        <div class="hero-content">
+            <h1 class="text-3xl md:text-5xl font-bold mb-4 text-white" id="heroTitle">Experience Authentic Thai Relaxation</h1>
+            <p class="text-lg md:text-xl mb-8 text-white/90" id="heroSubtitle">Your sanctuary for traditional Thai massage and wellness in Calgary</p>
+            <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                <a href="tel:4039889964" class="cta-button" aria-label="Call to book an appointment">
+                    <i class="fas fa-phone mr-2"></i> Call Now: (403) 988-9964
+                </a>
+                <a href="#services" class="bg-white/10 hover:bg-white/20 text-white font-bold py-3 px-6 rounded-lg transition-colors duration-200" aria-label="View our services">
+                    Explore Services
+                </a>
+            </div>
         </div>
     </section>
 
     <!-- Services Section -->
     <section id="services" class="py-16 md:py-24 bg-white scroll-target" role="region" aria-labelledby="services-heading">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 id="services-heading" class="text-2xl md:text-3xl font-bold text-center mb-8 md:mb-12">Our Services</h2>
-            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8" id="servicesGrid" role="list">
+            <div class="text-center mb-12">
+                <h2 id="services-heading" class="text-3xl md:text-4xl font-bold mb-4">Our Services</h2>
+                <p class="text-gray-600 max-w-2xl mx-auto">Experience the healing power of authentic Thai massage and wellness treatments</p>
+            </div>
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8" id="servicesGrid" role="list">
                 <!-- Services will be dynamically inserted here -->
             </div>
         </div>
@@ -69,8 +83,11 @@
     <!-- Locations Section -->
     <section id="locations" class="py-16 md:py-24 bg-gray-50 scroll-target" role="region" aria-labelledby="locations-heading">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 id="locations-heading" class="text-2xl md:text-3xl font-bold text-center mb-8 md:mb-12">Our Locations</h2>
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8" id="locationsGrid" role="list">
+            <div class="text-center mb-12">
+                <h2 id="locations-heading" class="text-3xl md:text-4xl font-bold mb-4">Our Locations</h2>
+                <p class="text-gray-600 max-w-2xl mx-auto">Visit us at our convenient locations across Calgary</p>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8" id="locationsGrid" role="list">
                 <!-- Locations will be dynamically inserted here -->
             </div>
         </div>
@@ -79,8 +96,11 @@
     <!-- Testimonials Section -->
     <section id="testimonials" class="py-16 md:py-24 bg-white scroll-target" role="region" aria-labelledby="testimonials-heading">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 id="testimonials-heading" class="text-2xl md:text-3xl font-bold text-center mb-8 md:mb-12">What Our Clients Say</h2>
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8" id="testimonialsGrid" role="list">
+            <div class="text-center mb-12">
+                <h2 id="testimonials-heading" class="text-3xl md:text-4xl font-bold mb-4">What Our Clients Say</h2>
+                <p class="text-gray-600 max-w-2xl mx-auto">Discover why our clients keep coming back for our authentic Thai massage experience</p>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8" id="testimonialsGrid" role="list">
                 <!-- Testimonials will be dynamically inserted here -->
             </div>
         </div>
@@ -90,10 +110,10 @@
     <section id="about" class="py-16 md:py-24 bg-gray-50 scroll-target" role="region" aria-labelledby="about-heading">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="max-w-3xl mx-auto text-center">
-                <h2 id="about-heading" class="text-2xl md:text-3xl font-bold mb-6 md:mb-8" id="aboutTitle">About Thai Spa 4U</h2>
-                <p class="text-base md:text-lg text-gray-700 px-4" id="aboutContent">
+                <h2 id="about-heading" class="text-3xl md:text-4xl font-bold mb-6">About Thai Spa 4U</h2>
+                <div class="prose prose-lg mx-auto" id="aboutContent">
                     <!-- About content will be inserted here -->
-                </p>
+                </div>
             </div>
         </div>
     </section>
@@ -105,7 +125,10 @@
                 <div>
                     <h3 class="text-xl font-bold mb-4">Contact Us</h3>
                     <p class="mb-2">Hours vary by location and masseuse.</p>
-                    <p>Please see specific location details or call to confirm availability.</p>
+                    <p class="mb-4">Please see specific location details or call to confirm availability.</p>
+                    <a href="tel:4039889964" class="text-[#FA8F7C] hover:text-[#e87f6c] transition-colors">
+                        <i class="fas fa-phone mr-2"></i> (403) 988-9964
+                    </a>
                 </div>
                 <div>
                     <h3 class="text-xl font-bold mb-4">Follow Us</h3>
@@ -116,12 +139,15 @@
                 <div>
                     <h3 class="text-xl font-bold mb-4">Quick Links</h3>
                     <ul class="space-y-2" role="list">
-                        <li><a href="#services" class="hover:text-[#FA8F7C]" aria-label="View our services">Services</a></li>
-                        <li><a href="#locations" class="hover:text-[#FA8F7C]" aria-label="Find our locations">Locations</a></li>
-                        <li><a href="#about" class="hover:text-[#FA8F7C]" aria-label="Learn about us">About</a></li>
-                        <li><a href="#testimonials" class="hover:text-[#FA8F7C]" aria-label="Read testimonials">Testimonials</a></li>
+                        <li><a href="#services" class="hover:text-[#FA8F7C] transition-colors" aria-label="View our services">Services</a></li>
+                        <li><a href="#locations" class="hover:text-[#FA8F7C] transition-colors" aria-label="Find our locations">Locations</a></li>
+                        <li><a href="#about" class="hover:text-[#FA8F7C] transition-colors" aria-label="Learn about us">About</a></li>
+                        <li><a href="#testimonials" class="hover:text-[#FA8F7C] transition-colors" aria-label="Read testimonials">Testimonials</a></li>
                     </ul>
                 </div>
+            </div>
+            <div class="mt-12 pt-8 border-t border-gray-700 text-center text-sm text-gray-400">
+                <p>&copy; 2024 Thai Spa 4U. All rights reserved.</p>
             </div>
         </div>
     </footer>
