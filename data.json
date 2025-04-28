@@ -1,0 +1,175 @@
+{
+    "companyName": "thaispa4u",
+    "logo": "images/logo2.png",
+    "logoColor": "#FA8F7C",
+    "hero": {
+      "title": "Experience Authentic Thai Relaxation",
+      "subtitle": "Your sanctuary for traditional Thai massage and wellness.",
+      "cta": "Book Your Session",
+      "image": "images/home-page-2-xl.webp"
+    },
+    "massages": [
+      {
+        "name": "Traditional Thai Massage",
+        "image": "images/thai-massage-lg.webp",
+        "description": "Thai massage combines compression, acupressure, and passive stretching. It helps to increase the range of motion in your joints and muscles.",
+        "pricing": [
+          { "duration": 60, "cost": 125 }
+        ]
+      },
+      {
+        "name": "Cupping Massage",
+        "image": "images/cupping-massage-2-lg.webp",
+        "description": "Cupping is more of a deep tissue massage that helps alleviate pain and inflammation. This helps with general well-being and blood flow all while you relax.",
+        "pricing": [
+          { "duration": 60, "cost": 110 },
+          { "duration": 90, "cost": 150 }
+        ]
+      },
+      {
+        "name": "Thai Combo Massage",
+        "image": "images/thai-combo-massage.webp",
+        "description": "A massage that beautifully combines a relaxation massage with techniques from Traditional Thai massage therapy.",
+        "pricing": [
+          { "duration": 60, "cost": 125 }
+        ]
+      },
+      {
+        "name": "Couple's Massage",
+        "image": "images/couple-masssage-2-lg.webp",
+        "description": "Indulge in the art of relaxation together with our rejuvenating couple's massage experience. (Price is per person).",
+        "pricing": [
+          { "duration": 60, "cost": 110 }
+        ]
+      },
+      {
+        "name": "Hot Stone Massage",
+        "image": "images/hot-stone-2-lg.webp",
+        "description": "Indulge in the ultimate relaxation with our Hot Stone Massage, where heated stones are placed on key points of your body to melt away tension and promote deep relaxation.",
+        "pricing": [
+          { "duration": 60, "cost": 125 }
+        ]
+      },
+      {
+        "name": "Pre & Post Natal Massage",
+        "image": "images/pre-post-natal.webp",
+        "description": "Nurture your body and baby with our specialized pre and postnatal massage. Relax and relieve tension while promoting overall well-being during this special time.",
+        "pricing": [
+          { "duration": 60, "cost": 110 },
+          { "duration": 90, "cost": 150 }
+        ]
+      },
+      {
+        "name": "Thai Therapeutic Massage",
+        "image": "images/thai-therapeutic.webp",
+        "description": "Experience the healing power of Thai Therapeutic Massage and unlock your body's natural balance and vitality.",
+        "pricing": [
+          { "duration": 60, "cost": 110 },
+          { "duration": 90, "cost": 150 }
+        ]
+      },
+      {
+        "name": "Thai Hot Herbal Add-on",
+        "image": "images/thai-hot-herbal.webp",
+        "description": "Add a Thai Hot herbal massage to your main massage session for an enhanced experience.",
+        "pricing": [
+          { "duration": 60, "cost": 50 }
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "name": "Chapparal",
+        "address": "Chaparral, SE, Calgary, AB",
+        "mapLink": "https://www.google.com/maps/search/?api=1&query=Chaparral+SE+Calgary+AB",
+        "masseuses": [
+          {
+            "name": "Mam",
+             "availability": [
+               { "day": "Wednesday", "times": [{ "start": "11:00 AM", "end": "6:00 PM" }] },
+               { "day": "Saturday", "times": [{ "start": "11:00 AM", "end": "6:00 PM" }] },
+               { "day": "Sunday", "times": [{ "start": "11:00 AM", "end": "6:00 PM" }] }
+             ],
+            "booking_cta": "Call (403) 988-9964 or (403) 305-8203 to book with Mam."
+          },
+          {
+            "name": "Rocky",
+             "availability": [
+               { "day": "Monday", "times": [{ "start": "10:00 AM", "end": "6:00 PM" }] },
+               { "day": "Tuesday", "times": [{ "start": "10:00 AM", "end": "6:00 PM" }] },
+               { "day": "Wednesday", "times": [{ "start": "10:00 AM", "end": "6:00 PM" }] }
+             ],
+            "booking_cta": "Call (403) 988-9964 or (403) 305-8203 to book with Rocky."
+          }
+        ]
+      },
+      {
+        "name": "Willow Park Village Chiropractic & Wellness",
+        "address": "10816 Macleod Trail Unit 442, Calgary, AB T2J 5N8",
+        "mapLink": "https://www.google.com/maps/search/?api=1&query=Willow+Park+Village+Chiropractic+%26+Wellness+Calgary+AB",
+        "masseuses": [
+          {
+            "name": "Mam",
+             "availability": [
+               { "day": "Monday", "times": [{ "start": "10:00 AM", "end": "6:00 PM" }] },
+               { "day": "Wednesday", "times": [{ "start": "10:00 AM", "end": "6:00 PM" }] },
+               { "day": "Saturday", "times": [{ "start": "9:00 AM", "end": "2:00 PM" }] }
+             ],
+            "booking_cta": "Call (403) 278-5350 to book with Mam, or ask about online booking."
+          },
+          {
+            "name": "Rocky",
+             "availability": [
+               { "day": "Saturday", "times": [{ "start": "9:30 AM", "end": "2:00 PM" }] }
+             ],
+            "booking_cta": "Call (403) 278-5350 to book with Rocky, or ask about online booking."
+          }
+        ]
+      },
+      {
+        "name": "Okotoks",
+        "address": "200 Southridge Dr, Okotoks, AB T1S 0N8",
+        "mapLink": "https://www.google.com/maps/search/?api=1&query=200+Southridge+Dr+Okotoks+AB",
+        "masseuses": [
+          {
+            "name": "Mam",
+            "availability": [
+              { "day": "Monday", "times": [{ "start": "9:00 AM", "end": "3:00 PM" }] },
+              { "day": "Tuesday", "times": [
+                { "start": "9:00 AM", "end": "3:00 PM" },
+                { "start": "2:45 PM", "end": "9:00 PM" }
+              ] },
+              { "day": "Thursday", "times": [{ "start": "2:45 PM", "end": "9:00 PM" }] }
+            ],
+            "booking_cta": "Call (403) 988-9964 or (403) 305-8203 to book with Mam."
+          }
+        ]
+      }
+    ],
+     "hours": {
+      "general": "Hours vary by location and masseuse.",
+      "note": "Please see specific location details below or call to confirm availability and book your appointment."
+    },
+    "testimonials": [
+      {
+        "text": "Mam and Rocky are amazing . Just finished couple massage and everything from start to finish was amazing ...I can appreciate the firm strong pressure and also incorporate the authentic Thai massage techniques of stretching and deep pressure points. Setup was clean, professional and super friendly staffs. They really pay full attention to details and really help target problematic muscle groups. Thank you for welcoming us and making us feel comfortable and safe. Can't wait to come back.",
+        "author": "A and P",
+        "date": "2021-09-01"
+      },
+      {
+        "text": "I always have the best experience whenever. I feel at home and relaxed. I highly recommend this place to anyone who's under stress and want to relax. 👍👍",
+        "author": "Maykhay Deecee",
+        "date": "2021-03-01"
+      }
+    ],
+    "about": {
+      "title": "About thaispa4u",
+      "content": "Welcome to our beautiful and fully licenced home-based spa. At ThaiSpa4U, we are focused on providing excellent & personalized treatment to every one of our customers, at affordable prices. All of our therapists are registered and experienced in international massage techniques that will help you relax and rejuvenate. We encourage respect and politeness between clients & staff. Allow us to treat you while you enjoy our Thai inspired atmosphere and dream of the beautiful beaches of Thailand right here in Calgary."
+    },
+    "social_links": {
+      "facebook": "https://facebook.com/thaispa4u",
+      "twitter": "https://twitter.com/thaispa4u",
+      "linkedin": "https://linkedin.com/company/thaispa4u"
+    }
+  }
+  
