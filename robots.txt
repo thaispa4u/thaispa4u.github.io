@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Sitemap: https://thaispa4u.github.io/sitemap.xml
+
+# Disallow crawling of admin or private areas
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+
+# Allow all other content
+Allow: /images/
+Allow: /styles/
+Allow: /scripts/ 
