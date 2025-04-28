@@ -20,10 +20,72 @@
     <!-- Load critical CSS inline -->
     <style>
         /* Critical CSS - minimal styles needed for above-the-fold content */
-        body { margin: 0; font-family: 'Poppins', sans-serif; }
-        .hero-image { min-height: 60vh; position: relative; }
-        .hero-content { position: relative; z-index: 2; max-width: 800px; padding: 2rem; text-align: center; }
-        .cta-button { background-color: #FA8F7C; color: white; padding: 0.75rem 1.5rem; border-radius: 0.5rem; }
+        body { 
+            margin: 0; 
+            font-family: 'Poppins', sans-serif;
+            -webkit-tap-highlight-color: transparent;
+        }
+        .hero-image { 
+            min-height: 60vh; 
+            position: relative;
+            background-size: cover;
+            background-position: center;
+        }
+        .hero-content { 
+            position: relative; 
+            z-index: 2; 
+            max-width: 800px; 
+            padding: 2rem; 
+            text-align: center;
+        }
+        .cta-button { 
+            background-color: #FA8F7C; 
+            color: white; 
+            padding: 0.75rem 1.5rem; 
+            border-radius: 0.5rem;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+        .cta-button:active {
+            transform: scale(0.98);
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        /* Mobile-specific styles */
+        @media (max-width: 768px) {
+            .mobile-menu {
+                transform: translateX(100%);
+                transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+                box-shadow: -4px 0 10px rgba(0,0,0,0.1);
+            }
+            .mobile-menu.active {
+                transform: translateX(0);
+            }
+            .nav-link {
+                padding: 1rem;
+                border-radius: 0.5rem;
+                transition: background-color 0.2s ease;
+            }
+            .nav-link:active {
+                background-color: rgba(250, 143, 124, 0.1);
+            }
+            .hero-content {
+                padding: 1.5rem;
+            }
+            .hero-content h1 {
+                font-size: 2rem;
+                line-height: 1.2;
+            }
+            .hero-content p {
+                font-size: 1.1rem;
+                line-height: 1.4;
+            }
+            section {
+                padding: 3rem 1.5rem;
+            }
+            .grid {
+                gap: 1.5rem;
+            }
+        }
     </style>
     
     <!-- Defer non-critical CSS -->
@@ -68,22 +130,30 @@
                     </a>
                 </div>
                 <!-- Mobile Menu Button -->
-                <button class="md:hidden text-gray-700 focus:outline-none" id="mobileMenuButton" aria-label="Toggle menu" aria-expanded="false" aria-controls="mobileMenu">
-                    <i class="fas fa-bars text-2xl" aria-hidden="true"></i>
+                <button class="md:hidden text-gray-700 focus:outline-none p-4" id="mobileMenuButton" aria-label="Toggle menu" aria-expanded="false" aria-controls="mobileMenu">
+                    <i class="fas fa-bars text-2xl transition-transform duration-200" aria-hidden="true"></i>
                 </button>
             </div>
         </div>
     </nav>
 
     <!-- Mobile Menu -->
-    <div class="mobile-menu fixed top-24 right-0 w-64 h-full bg-white shadow-lg z-40 md:hidden" id="mobileMenu" role="navigation" aria-label="Mobile menu">
-        <div class="flex flex-col p-6 space-y-4">
-            <a href="#services" class="nav-link text-gray-700 hover:text-[#FA8F7C] scroll-link" aria-label="View our services">Services</a>
-            <a href="#locations" class="nav-link text-gray-700 hover:text-[#FA8F7C] scroll-link" aria-label="Find our locations">Locations</a>
-            <a href="#about" class="nav-link text-gray-700 hover:text-[#FA8F7C] scroll-link" aria-label="Learn about us">About</a>
-            <a href="#testimonials" class="nav-link text-gray-700 hover:text-[#FA8F7C] scroll-link" aria-label="Read testimonials">Testimonials</a>
-            <a href="tel:4039889964" class="cta-button text-center" aria-label="Call to book an appointment">
-                Book Now
+    <div class="mobile-menu fixed top-24 right-0 w-full h-[calc(100vh-6rem)] bg-white shadow-lg z-40 md:hidden overflow-y-auto" id="mobileMenu" role="navigation" aria-label="Mobile menu">
+        <div class="flex flex-col p-4 space-y-2">
+            <a href="#services" class="nav-link text-gray-700 hover:text-[#FA8F7C] scroll-link flex items-center py-4 px-6" aria-label="View our services">
+                <i class="fas fa-spa mr-3 text-lg"></i> Services
+            </a>
+            <a href="#locations" class="nav-link text-gray-700 hover:text-[#FA8F7C] scroll-link flex items-center py-4 px-6" aria-label="Find our locations">
+                <i class="fas fa-map-marker-alt mr-3 text-lg"></i> Locations
+            </a>
+            <a href="#about" class="nav-link text-gray-700 hover:text-[#FA8F7C] scroll-link flex items-center py-4 px-6" aria-label="Learn about us">
+                <i class="fas fa-info-circle mr-3 text-lg"></i> About
+            </a>
+            <a href="#testimonials" class="nav-link text-gray-700 hover:text-[#FA8F7C] scroll-link flex items-center py-4 px-6" aria-label="Read testimonials">
+                <i class="fas fa-quote-right mr-3 text-lg"></i> Testimonials
+            </a>
+            <a href="tel:4039889964" class="cta-button text-center mt-4 mx-6 py-4 flex items-center justify-center" aria-label="Call to book an appointment">
+                <i class="fas fa-phone mr-2"></i> Book Now
             </a>
         </div>
     </div>
@@ -91,14 +161,14 @@
     <!-- Hero Section -->
     <section class="hero-image" role="banner">
         <div class="hero-content">
-            <h1 class="text-3xl md:text-5xl font-bold mb-4 text-white" id="heroTitle">Experience Authentic Thai Relaxation</h1>
-            <p class="text-lg md:text-xl mb-8 text-white/90" id="heroSubtitle">Your sanctuary for traditional Thai massage and wellness in Calgary</p>
+            <h1 class="text-3xl md:text-5xl font-bold mb-4 text-white drop-shadow-lg" id="heroTitle">Experience Authentic Thai Relaxation</h1>
+            <p class="text-lg md:text-xl mb-8 text-white/90 drop-shadow-md" id="heroSubtitle">Your sanctuary for traditional Thai massage and wellness in Calgary</p>
             <div class="flex flex-col sm:flex-row gap-4 justify-center">
-                <a href="tel:4039889964" class="cta-button" aria-label="Call to book an appointment">
+                <a href="tel:4039889964" class="cta-button flex items-center justify-center py-4" aria-label="Call to book an appointment">
                     <i class="fas fa-phone mr-2"></i> Call Now: (403) 988-9964
                 </a>
-                <a href="#services" class="bg-white/10 hover:bg-white/20 text-white font-bold py-3 px-6 rounded-lg transition-colors duration-200" aria-label="View our services">
-                    Explore Services
+                <a href="#services" class="bg-white/10 hover:bg-white/20 text-white font-bold py-4 px-6 rounded-lg transition-colors duration-200 flex items-center justify-center" aria-label="View our services">
+                    <i class="fas fa-arrow-down mr-2"></i> Explore Services
                 </a>
             </div>
         </div>

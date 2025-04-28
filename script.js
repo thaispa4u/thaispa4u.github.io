@@ -46,17 +46,22 @@ const initializeCore = () => {
     // Mobile menu functionality
     const mobileMenuButton = document.getElementById('mobileMenuButton');
     const mobileMenu = document.getElementById('mobileMenu');
+    const menuIcon = mobileMenuButton.querySelector('i');
     
     if (mobileMenuButton && mobileMenu) {
-        const toggleMobileMenu = () => {
+        mobileMenuButton.addEventListener('click', () => {
             mobileMenu.classList.toggle('active');
-            mobileMenuButton.setAttribute('aria-expanded', mobileMenu.classList.contains('active'));
-        };
+            menuIcon.classList.toggle('fa-bars');
+            menuIcon.classList.toggle('fa-times');
+            mobileMenuButton.setAttribute('aria-expanded', 
+                mobileMenu.classList.contains('active').toString());
+        });
         
-        mobileMenuButton.addEventListener('click', toggleMobileMenu);
-        document.addEventListener('click', (event) => {
-            if (!mobileMenu.contains(event.target) && !mobileMenuButton.contains(event.target)) {
+        document.addEventListener('click', (e) => {
+            if (!mobileMenu.contains(e.target) && !mobileMenuButton.contains(e.target)) {
                 mobileMenu.classList.remove('active');
+                menuIcon.classList.remove('fa-times');
+                menuIcon.classList.add('fa-bars');
                 mobileMenuButton.setAttribute('aria-expanded', 'false');
             }
         });
@@ -64,22 +69,60 @@ const initializeCore = () => {
     
     // Smooth scroll functionality
     document.querySelectorAll('.scroll-link').forEach(link => {
-        link.addEventListener('click', (event) => {
-            event.preventDefault();
-            const targetId = event.currentTarget.getAttribute('href');
+        link.addEventListener('click', (e) => {
+            e.preventDefault();
+            const targetId = link.getAttribute('href');
             const targetElement = document.querySelector(targetId);
             
             if (targetElement) {
-                const headerOffset = 80;
-                const elementPosition = targetElement.getBoundingClientRect().top;
-                const offsetPosition = elementPosition + window.pageYOffset - headerOffset;
+                // Close mobile menu
+                mobileMenu.classList.remove('active');
+                menuIcon.classList.remove('fa-times');
+                menuIcon.classList.add('fa-bars');
+                mobileMenuButton.setAttribute('aria-expanded', 'false');
                 
-                window.scrollTo({
-                    top: offsetPosition,
-                    behavior: 'smooth'
+                // Smooth scroll to target
+                targetElement.scrollIntoView({
+                    behavior: 'smooth',
+                    block: 'start'
                 });
             }
         });
+    });
+
+    // Add touch feedback for mobile buttons
+    document.querySelectorAll('button, a').forEach(element => {
+        element.addEventListener('touchstart', () => {
+            element.classList.add('active');
+        });
+        
+        element.addEventListener('touchend', () => {
+            element.classList.remove('active');
+        });
+    });
+
+    // Prevent scroll when mobile menu is open
+    mobileMenuButton.addEventListener('click', () => {
+        document.body.style.overflow = mobileMenu.classList.contains('active') ? 'hidden' : '';
+    });
+
+    // Add parallax effect to hero image on mobile
+    const heroImage = document.querySelector('.hero-image');
+    let lastScrollY = window.scrollY;
+
+    window.addEventListener('scroll', () => {
+        if (window.innerWidth <= 768) {
+            const currentScrollY = window.scrollY;
+            const scrollDiff = currentScrollY - lastScrollY;
+            
+            if (scrollDiff > 0) {
+                heroImage.style.transform = `translateY(${scrollDiff * 0.5}px)`;
+            } else {
+                heroImage.style.transform = 'translateY(0)';
+            }
+            
+            lastScrollY = currentScrollY;
+        }
     });
 };
 
