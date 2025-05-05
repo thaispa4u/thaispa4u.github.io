@@ -82,7 +82,7 @@
         "name": "Chapparal",
         "address": "Chaparral, SE, Calgary, AB",
         "mapLink": "https://www.google.com/maps/search/?api=1&query=Chaparral+SE+Calgary+AB",
-        "masseuses": [
+        "therapists": [
           {
             "name": "Mam",
              "availability": [
@@ -104,24 +104,10 @@
         ]
       },
       {
-        "name": "Willow Park Village Chiropractic & Wellness",
-        "address": "10816 Macleod Trail Unit 442, Calgary, AB T2J 5N8",
-        "mapLink": "https://www.google.com/maps/search/?api=1&query=Willow+Park+Village+Chiropractic+%26+Wellness+Calgary+AB",
-        "masseuses": [
-          {
-            "name": "Rocky",
-             "availability": [
-               { "day": "Saturday", "times": [{ "start": "9:30 AM", "end": "2:00 PM" }] }
-             ],
-            "booking_cta": "Call (403) 278-5350 to book with Rocky, or ask about online booking."
-          }
-        ]
-      },
-      {
         "name": "Okotoks",
         "address": "200 Southridge Dr, Okotoks, AB T1S 0N8",
         "mapLink": "https://www.google.com/maps/search/?api=1&query=200+Southridge+Dr+Okotoks+AB",
-        "masseuses": [
+        "therapists": [
           {
             "name": "Mam",
             "availability": [
@@ -138,7 +124,7 @@
       }
     ],
      "hours": {
-      "general": "Hours vary by location and masseuse.",
+      "general": "Hours vary by location and therapist.",
       "note": "Please see specific location details below or call to confirm availability and book your appointment."
     },
     "testimonials": [

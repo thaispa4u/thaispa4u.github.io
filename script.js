@@ -140,6 +140,13 @@ const loadNonCriticalContent = async () => {
         setTimeout(() => processTestimonials(data), 100);
         setTimeout(() => processAbout(data), 150);
         setTimeout(() => processSocialLinks(data), 200);
+        // Populate footer hours and note
+        setTimeout(() => {
+            const footerHours = document.getElementById('footerHours');
+            const footerNote = document.getElementById('footerNote');
+            if (footerHours && data.hours?.general) footerHours.textContent = data.hours.general;
+            if (footerNote && data.hours?.note) footerNote.textContent = data.hours.note;
+        }, 250);
     } catch (error) {
         console.error('Error loading content:', error);
         displayError(error);
@@ -181,17 +188,17 @@ const processLocations = (data) => {
                 <i class="fas fa-map-marker-alt mr-2"></i>View on Map
             </a>
             <div class="space-y-6">
-                ${location.masseuses.map(masseuse => `
+                ${location.therapists.map(therapist => `
                     <div class="border-t border-gray-200 pt-6">
-                        <h4 class="font-display font-semibold text-lg mb-3">${masseuse.name}</h4>
+                        <h4 class="font-display font-semibold text-lg mb-3">${therapist.name}</h4>
                         <div class="space-y-2">
-                            ${masseuse.availability.map(avail => `
+                            ${therapist.availability.map(avail => `
                                 <p class="text-gray-600">
                                     <i class="far fa-calendar-alt mr-2"></i>${avail.day}: ${avail.times.map(time => `${time.start} - ${time.end}`).join(', ')}
                                 </p>
                             `).join('')}
                         </div>
-                        <p class="text-gray-600 mt-3">${masseuse.booking_cta}</p>
+                        <p class="text-gray-600 mt-3">${therapist.booking_cta}</p>
                     </div>
                 `).join('')}
             </div>
